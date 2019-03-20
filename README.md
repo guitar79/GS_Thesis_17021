@@ -1,1 +1,3 @@
-# GS_Thesis_17021
+# Thesis_Report
+
+졸업논문

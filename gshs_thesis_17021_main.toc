@@ -1,0 +1,19 @@
+\contentsline {section}{Abstract}{i}
+\contentsline {section}{Contents}{iii}
+\contentsline {section}{List of Figures}{iv}
+\contentsline {section}{List of Tables}{v}
+\contentsline {section}{\numberline {I}Introduction}{1}
+\contentsline {section}{\numberline {II}Obervations and Data Reduction}{2}
+\contentsline {subsection}{\numberline {II.1}Observation Region}{2}
+\contentsline {subsection}{\numberline {II.2}Observation Data}{2}
+\contentsline {subsection}{\numberline {II.3}Identification of Outflows}{3}
+\contentsline {subsection}{\numberline {II.4}Calculating Momentum Flux}{5}
+\contentsline {section}{\numberline {III}Results}{6}
+\contentsline {subsection}{\numberline {III.1}Outflow Identification}{6}
+\contentsline {subsubsection}{\numberline {III.1.1}$^{12}$CO J = 2 - 1 Observations}{7}
+\contentsline {subsubsection}{\numberline {III.1.2}$^{12}$CO J = 1 - 0 Observations}{11}
+\contentsline {subsection}{\numberline {III.2}Momentum Flux}{12}
+\contentsline {subsection}{\numberline {III.3}Momentum flux vs. Bolometric luminosity}{13}
+\contentsline {subsection}{\numberline {III.4}Momentum flux by emission line energy level}{14}
+\contentsline {section}{\numberline {IV}Conclusion}{15}
+\contentsline {section}{연구활동}{16}
