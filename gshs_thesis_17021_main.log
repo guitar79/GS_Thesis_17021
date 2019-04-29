@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.10.25)  20 MAR 2019 15:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.25)  8 APR 2019 12:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1379,38 +1379,26 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <21> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 5.
 
 
-LaTeX Warning: Citation `bontemps1996evolution' on page 1 undefined on input li
-ne 7.
+LaTeX Warning: Citation `turner2013global' on page 1 undefined on input line 7.
 
 
-LaTeX Warning: Citation `kang2013outflow' on page 1 undefined on input line 8.
+
+LaTeX Warning: Citation `khoram2016growth' on page 1 undefined on input line 9.
 
 
-LaTeX Warning: Citation `aso2000dense' on page 1 undefined on input line 10.
+
+LaTeX Warning: Citation `brittman2017controlling' on page 1 undefined on input 
+line 9.
 
 
-LaTeX Warning: Citation `takahashi2008millimeter' on page 1 undefined on input 
-line 10.
-
-
-LaTeX Warning: Citation `megeath2012spitzer' on page 1 undefined on input line 
-10.
-
-
-LaTeX Warning: Citation `furlan2016herschel' on page 1 undefined on input line 
-10.
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 10--39
-
- []
+LaTeX Warning: Citation `chen2018room' on page 1 undefined on input line 12.
 
 [1
 
 
 
 
-]
+]) [2]
 \openout2 = `sub/methodology.aux'.
 
  (./sub/methodology.tex
@@ -1418,15 +1406,15 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <16> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 3.
 
 
-LaTeX Warning: Citation `kounkel2017gould' on page 2 undefined on input line 4.
+LaTeX Warning: Citation `kounkel2017gould' on page 3 undefined on input line 4.
 
 
 
-LaTeX Warning: Citation `schulz2012formation' on page 2 undefined on input line
+LaTeX Warning: Citation `schulz2012formation' on page 3 undefined on input line
  4.
 
 
-LaTeX Warning: Citation `berne2014iram' on page 2 undefined on input line 8.
+LaTeX Warning: Citation `berne2014iram' on page 3 undefined on input line 8.
 
 
 Overfull \hbox (6.9762pt too wide) in paragraph at lines 8--9
@@ -1434,29 +1422,29 @@ Overfull \hbox (6.9762pt too wide) in paragraph at lines 8--9
 n Granada,
  []
 
-[2
+[3
 
 
 ]
-<images/RNE_12CO_Orion.png, id=101, 446.6286pt x 479.8728pt>
+<images/RNE_12CO_Orion.png, id=109, 446.6286pt x 479.8728pt>
 File: images/RNE_12CO_Orion.png Graphic file (type png)
 <use images/RNE_12CO_Orion.png>
 Package pdftex.def Info: images/RNE_12CO_Orion.png  used on input line 28.
 (pdftex.def)             Requested size: 185.65297pt x 199.46568pt.
-<images/Orion_13CO_intmap.png, id=103, 446.6286pt x 479.8728pt>
+<images/Orion_13CO_intmap.png, id=111, 446.6286pt x 479.8728pt>
 File: images/Orion_13CO_intmap.png Graphic file (type png)
 <use images/Orion_13CO_intmap.png>
 Package pdftex.def Info: images/Orion_13CO_intmap.png  used on input line 28.
 (pdftex.def)             Requested size: 185.65297pt x 199.46568pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 31.
- [3 <./images/RNE_12CO_Orion.png> <./images/Orion_13CO_intmap.png>]
+ [4 <./images/RNE_12CO_Orion.png> <./images/Orion_13CO_intmap.png>]
 
-LaTeX Warning: Citation `takahashi2008millimeter' on page 4 undefined on input 
+LaTeX Warning: Citation `takahashi2008millimeter' on page 5 undefined on input 
 line 53.
 
 
-LaTeX Warning: Citation `hatchell2007star' on page 4 undefined on input line 60
+LaTeX Warning: Citation `hatchell2007star' on page 5 undefined on input line 60
 .
 
 
@@ -1464,38 +1452,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
-[4]
+[5]
 
-LaTeX Warning: Citation `hatchell2007star' on page 5 undefined on input line 70
+LaTeX Warning: Citation `hatchell2007star' on page 6 undefined on input line 70
 .
 
 
-LaTeX Warning: Citation `hatchell2007star' on page 5 undefined on input line 77
+LaTeX Warning: Citation `hatchell2007star' on page 6 undefined on input line 77
 .
 
 
-LaTeX Warning: Citation `van2013outflow' on page 5 undefined on input line 77.
+LaTeX Warning: Citation `van2013outflow' on page 6 undefined on input line 77.
 
-) [5]
+) [6]
 \openout2 = `sub/result.aux'.
 
  (./sub/result.tex
 
-LaTeX Warning: Citation `chini1997dust' on page 6 undefined on input line 27.
+LaTeX Warning: Citation `chini1997dust' on page 7 undefined on input line 27.
 
 
-LaTeX Warning: Citation `nielbock2003stellar' on page 6 undefined on input line
+LaTeX Warning: Citation `nielbock2003stellar' on page 7 undefined on input line
  27.
 
 
-LaTeX Warning: Citation `megeath2012spitzer' on page 6 undefined on input line 
+LaTeX Warning: Citation `megeath2012spitzer' on page 7 undefined on input line 
 27.
 
 
-LaTeX Warning: Citation `furlan2016herschel' on page 6 undefined on input line 
+LaTeX Warning: Citation `furlan2016herschel' on page 7 undefined on input line 
 27.
 
-[6
+[7
 
 
 ]
@@ -1506,7 +1494,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.36008> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.40009> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
-<images/Orion_12CO2-1_FIR2_rbcontour_400_modified.png, id=123, 399.4122pt x 339
+<images/Orion_12CO2-1_FIR2_rbcontour_400_modified.png, id=131, 399.4122pt x 339
 .669pt>
 File: images/Orion_12CO2-1_FIR2_rbcontour_400_modified.png Graphic file (type p
 ng)
@@ -1514,7 +1502,7 @@ ng)
 Package pdftex.def Info: images/Orion_12CO2-1_FIR2_rbcontour_400_modified.png  
 used on input line 35.
 (pdftex.def)             Requested size: 199.16928pt x 169.37798pt.
-<images/Orion_12CO2-1_FIR2_line_profile_400.pdf, id=124, 462.52798pt x 346.8960
+<images/Orion_12CO2-1_FIR2_line_profile_400.pdf, id=132, 462.52798pt x 346.8960
 1pt>
 File: images/Orion_12CO2-1_FIR2_line_profile_400.pdf Graphic file (type pdf)
 <use images/Orion_12CO2-1_FIR2_line_profile_400.pdf>
@@ -1526,7 +1514,7 @@ Overfull \hbox (9.7736pt too wide) in paragraph at lines 34--37
  [] 
  []
 
-<images/Orion_12CO2-1_FIR3_rbcontour_400_modified.png, id=125, 399.4122pt x 339
+<images/Orion_12CO2-1_FIR3_rbcontour_400_modified.png, id=133, 399.4122pt x 339
 .1872pt>
 File: images/Orion_12CO2-1_FIR3_rbcontour_400_modified.png Graphic file (type p
 ng)
@@ -1534,7 +1522,7 @@ ng)
 Package pdftex.def Info: images/Orion_12CO2-1_FIR3_rbcontour_400_modified.png  
 used on input line 45.
 (pdftex.def)             Requested size: 199.16928pt x 169.13773pt.
-<images/Orion_12CO2-1_FIR3_line_profile_400.pdf, id=126, 462.52798pt x 346.8960
+<images/Orion_12CO2-1_FIR3_line_profile_400.pdf, id=134, 462.52798pt x 346.8960
 1pt>
 File: images/Orion_12CO2-1_FIR3_line_profile_400.pdf Graphic file (type pdf)
 <use images/Orion_12CO2-1_FIR3_line_profile_400.pdf>
@@ -1546,7 +1534,7 @@ Overfull \hbox (9.7736pt too wide) in paragraph at lines 44--47
  [] 
  []
 
-<images/Orion_12CO2-1_FIR6b_rbcontour_400_modified.png, id=127, 401.3394pt x 33
+<images/Orion_12CO2-1_FIR6b_rbcontour_400_modified.png, id=135, 401.3394pt x 33
 9.1872pt>
 File: images/Orion_12CO2-1_FIR6b_rbcontour_400_modified.png Graphic file (type 
 png)
@@ -1554,7 +1542,7 @@ png)
 Package pdftex.def Info: images/Orion_12CO2-1_FIR6b_rbcontour_400_modified.png 
  used on input line 55.
 (pdftex.def)             Requested size: 199.16928pt x 168.32516pt.
-<images/Orion_12CO2-1_FIR6b_line_profile_400.pdf, id=128, 462.52798pt x 346.896
+<images/Orion_12CO2-1_FIR6b_line_profile_400.pdf, id=136, 462.52798pt x 346.896
 01pt>
 File: images/Orion_12CO2-1_FIR6b_line_profile_400.pdf Graphic file (type pdf)
 <use images/Orion_12CO2-1_FIR6b_line_profile_400.pdf>
@@ -1569,7 +1557,7 @@ Overfull \hbox (9.7736pt too wide) in paragraph at lines 54--57
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Orion_12CO2-1_MMS2_rbcontour_400_modified.png, id=129, 399.4122pt x 339
+<images/Orion_12CO2-1_MMS2_rbcontour_400_modified.png, id=137, 399.4122pt x 339
 .1872pt>
 File: images/Orion_12CO2-1_MMS2_rbcontour_400_modified.png Graphic file (type p
 ng)
@@ -1577,7 +1565,7 @@ ng)
 Package pdftex.def Info: images/Orion_12CO2-1_MMS2_rbcontour_400_modified.png  
 used on input line 65.
 (pdftex.def)             Requested size: 199.16928pt x 169.13773pt.
-<images/Orion_12CO2-1_MMS2_line_profile_400.pdf, id=130, 462.52798pt x 346.8960
+<images/Orion_12CO2-1_MMS2_line_profile_400.pdf, id=138, 462.52798pt x 346.8960
 1pt>
 File: images/Orion_12CO2-1_MMS2_line_profile_400.pdf Graphic file (type pdf)
 <use images/Orion_12CO2-1_MMS2_line_profile_400.pdf>
@@ -1592,7 +1580,7 @@ Overfull \hbox (9.7736pt too wide) in paragraph at lines 64--67
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Orion_12CO2-1_MMS5_rbcontour_400_modified.png, id=131, 399.4122pt x 339
+<images/Orion_12CO2-1_MMS5_rbcontour_400_modified.png, id=139, 399.4122pt x 339
 .1872pt>
 File: images/Orion_12CO2-1_MMS5_rbcontour_400_modified.png Graphic file (type p
 ng)
@@ -1600,7 +1588,7 @@ ng)
 Package pdftex.def Info: images/Orion_12CO2-1_MMS5_rbcontour_400_modified.png  
 used on input line 75.
 (pdftex.def)             Requested size: 199.16928pt x 169.13773pt.
-<images/Orion_12CO2-1_MMS5_line_profile_400.pdf, id=132, 462.52798pt x 346.8960
+<images/Orion_12CO2-1_MMS5_line_profile_400.pdf, id=140, 462.52798pt x 346.8960
 1pt>
 File: images/Orion_12CO2-1_MMS5_line_profile_400.pdf Graphic file (type pdf)
 <use images/Orion_12CO2-1_MMS5_line_profile_400.pdf>
@@ -1615,7 +1603,7 @@ Overfull \hbox (9.7736pt too wide) in paragraph at lines 74--77
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Orion_12CO2-1_MMS9_rbcontour_400_modified.png, id=133, 404.712pt x 339.
+<images/Orion_12CO2-1_MMS9_rbcontour_400_modified.png, id=141, 404.712pt x 339.
 1872pt>
 File: images/Orion_12CO2-1_MMS9_rbcontour_400_modified.png Graphic file (type p
 ng)
@@ -1623,7 +1611,7 @@ ng)
 Package pdftex.def Info: images/Orion_12CO2-1_MMS9_rbcontour_400_modified.png  
 used on input line 85.
 (pdftex.def)             Requested size: 199.16928pt x 166.92258pt.
-<images/Orion_12CO2-1_MMS9_line_profile_400.pdf, id=134, 462.52798pt x 346.8960
+<images/Orion_12CO2-1_MMS9_line_profile_400.pdf, id=142, 462.52798pt x 346.8960
 1pt>
 File: images/Orion_12CO2-1_MMS9_line_profile_400.pdf Graphic file (type pdf)
 <use images/Orion_12CO2-1_MMS9_line_profile_400.pdf>
@@ -1638,21 +1626,21 @@ Overfull \hbox (9.7736pt too wide) in paragraph at lines 84--87
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[7 <./images/Orion_12CO2-1_FIR2_rbcontour_400_modified.png> <./images/Orion_12C
+[8 <./images/Orion_12CO2-1_FIR2_rbcontour_400_modified.png> <./images/Orion_12C
 O2-1_FIR2_line_profile_400.pdf> <./images/Orion_12CO2-1_FIR3_rbcontour_400_modi
 fied.png> <./images/Orion_12CO2-1_FIR3_line_profile_400.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/Orion_12CO2-1_FIR3_line_profile_400
 .pdf): PDF inclusion: multiple pdfs with page group included in a single page
->] [8 <./images/Orion_12CO2-1_FIR6b_rbcontour_400_modified.png> <./images/Orion
+>] [9 <./images/Orion_12CO2-1_FIR6b_rbcontour_400_modified.png> <./images/Orion
 _12CO2-1_FIR6b_line_profile_400.pdf> <./images/Orion_12CO2-1_MMS2_rbcontour_400
 _modified.png> <./images/Orion_12CO2-1_MMS2_line_profile_400.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/Orion_12CO2-1_MMS2_line_profile_400
 .pdf): PDF inclusion: multiple pdfs with page group included in a single page
->] [9 <./images/Orion_12CO2-1_MMS5_rbcontour_400_modified.png> <./images/Orion_
-12CO2-1_MMS5_line_profile_400.pdf> <./images/Orion_12CO2-1_MMS9_rbcontour_400_m
-odified.png> <./images/Orion_12CO2-1_MMS9_line_profile_400.pdf
+>] [10 <./images/Orion_12CO2-1_MMS5_rbcontour_400_modified.png> <./images/Orion
+_12CO2-1_MMS5_line_profile_400.pdf> <./images/Orion_12CO2-1_MMS9_rbcontour_400_
+modified.png> <./images/Orion_12CO2-1_MMS9_line_profile_400.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/Orion_12CO2-1_MMS9_line_profile_400
 .pdf): PDF inclusion: multiple pdfs with page group included in a single page
@@ -1661,24 +1649,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--102
 
  []
 
-[10
+[11
 
 ]
-<images/Orion_12CO_NRO_HOPS68_rbcontour_400.png, id=376, 394.1124pt x 339.1872p
+<images/Orion_12CO_NRO_HOPS68_rbcontour_400.png, id=384, 394.1124pt x 339.1872p
 t>
 File: images/Orion_12CO_NRO_HOPS68_rbcontour_400.png Graphic file (type png)
 <use images/Orion_12CO_NRO_HOPS68_rbcontour_400.png>
 Package pdftex.def Info: images/Orion_12CO_NRO_HOPS68_rbcontour_400.png  used o
 n input line 108.
 (pdftex.def)             Requested size: 122.34692pt x 105.29185pt.
-<images/Orion_12CO_NRO_HOPS370_rbcontour_400.png, id=377, 394.1124pt x 339.1872
+<images/Orion_12CO_NRO_HOPS370_rbcontour_400.png, id=385, 394.1124pt x 339.1872
 pt>
 File: images/Orion_12CO_NRO_HOPS370_rbcontour_400.png Graphic file (type png)
 <use images/Orion_12CO_NRO_HOPS370_rbcontour_400.png>
 Package pdftex.def Info: images/Orion_12CO_NRO_HOPS370_rbcontour_400.png  used 
 on input line 109.
 (pdftex.def)             Requested size: 130.88284pt x 112.64117pt.
-<images/Orion_12CO_NRO_HOPS78_rbcontour_400.png, id=378, 401.3394pt x 339.1872p
+<images/Orion_12CO_NRO_HOPS78_rbcontour_400.png, id=386, 401.3394pt x 339.1872p
 t>
 File: images/Orion_12CO_NRO_HOPS78_rbcontour_400.png Graphic file (type png)
 <use images/Orion_12CO_NRO_HOPS78_rbcontour_400.png>
@@ -1695,71 +1683,71 @@ Underfull \hbox (badness 10000) in paragraph at lines 127--130
 
  []
 
-[11 <./images/Orion_12CO_NRO_HOPS68_rbcontour_400.png> <./images/Orion_12CO_NRO
+[12 <./images/Orion_12CO_NRO_HOPS68_rbcontour_400.png> <./images/Orion_12CO_NRO
 _HOPS370_rbcontour_400.png> <./images/Orion_12CO_NRO_HOPS78_rbcontour_400.png>]
 
 Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
-[12]
-<images/Luminosity.png, id=388, 615.2586pt x 396.2805pt>
+[13]
+<images/Luminosity.png, id=396, 615.2586pt x 396.2805pt>
 File: images/Luminosity.png Graphic file (type png)
 <use images/Luminosity.png>
 Package pdftex.def Info: images/Luminosity.png  used on input line 164.
 (pdftex.def)             Requested size: 391.93544pt x 252.43953pt.
 
 
-LaTeX Warning: Citation `takahashi2008millimeter' on page 13 undefined on input
+LaTeX Warning: Citation `takahashi2008millimeter' on page 14 undefined on input
  line 169.
 
 
-LaTeX Warning: Citation `van2013outflow' on page 13 undefined on input line 169
+LaTeX Warning: Citation `van2013outflow' on page 14 undefined on input line 169
 .
 
 
-LaTeX Warning: Citation `hogerheijde1998envelope' on page 13 undefined on input
+LaTeX Warning: Citation `hogerheijde1998envelope' on page 14 undefined on input
  line 169.
 
 
-LaTeX Warning: Citation `nakamura2012evidence' on page 13 undefined on input li
+LaTeX Warning: Citation `nakamura2012evidence' on page 14 undefined on input li
 ne 169.
 
 
-LaTeX Warning: Citation `aso2000dense' on page 13 undefined on input line 169.
+LaTeX Warning: Citation `aso2000dense' on page 14 undefined on input line 169.
 
 
-LaTeX Warning: Citation `zhang2005search' on page 13 undefined on input line 16
+LaTeX Warning: Citation `zhang2005search' on page 14 undefined on input line 16
 9.
 
 
-LaTeX Warning: Citation `van2013outflow' on page 13 undefined on input line 170
+LaTeX Warning: Citation `van2013outflow' on page 14 undefined on input line 170
 .
 
-[13
+[14
 
  <./images/Luminosity.png>]
-<images/outflow_J.pdf, id=393, 646.57558pt x 478.6683pt>
+<images/outflow_J.pdf, id=401, 646.57558pt x 478.6683pt>
 File: images/outflow_J.pdf Graphic file (type pdf)
 <use images/outflow_J.pdf>
 Package pdftex.def Info: images/outflow_J.pdf  used on input line 186.
 (pdftex.def)             Requested size: 371.30594pt x 274.88155pt.
 
 
-LaTeX Warning: Citation `takahashi2008millimeter' on page 14 undefined on input
+LaTeX Warning: Citation `takahashi2008millimeter' on page 15 undefined on input
  line 191.
 
-) [14 <./images/outflow_J.pdf>]
+) [15 <./images/outflow_J.pdf>]
 \openout2 = `sub/conclusion.aux'.
 
- (./sub/conclusion.tex) [15
+ (./sub/conclusion.tex) [16
 
 
 ]
 (./gshs_thesis_17021_main.bbl)
 \openout2 = `sub/footer.aux'.
 
- (./sub/footer.tex [16
+ (./sub/footer.tex [17
 
 
 ])
@@ -1774,13 +1762,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 30982 strings out of 492649
- 735189 string characters out of 6133383
- 918258 words of memory out of 5000000
- 34062 multiletter control sequences out of 15000+600000
- 154439 words of font info for 312 fonts, out of 8000000 for 9000
+ 31001 strings out of 492649
+ 735540 string characters out of 6133384
+ 920260 words of memory out of 5000000
+ 34076 multiletter control sequences out of 15000+600000
+ 157301 words of font info for 322 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,18n,138p,1252b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,18n,138p,1860b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2018/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2018/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2018/texmf-dist/fonts/type1
@@ -1805,46 +1793,51 @@ d.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd5.pfb>
 xlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmac.pfb><c:/texlive/
 2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb><c:/texlive/2018/t
 exmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb><c:/texlive/2018/texmf-d
-ist/fonts/type1/public/nanumtype1/nanummjmb0.pfb><c:/texlive/2018/texmf-dist/fo
-nts/type1/public/nanumtype1/nanummjmb1.pfb><c:/texlive/2018/texmf-dist/fonts/ty
-pe1/public/nanumtype1/nanummjmb2.pfb><c:/texlive/2018/texmf-dist/fonts/type1/pu
-blic/nanumtype1/nanummjmb3.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/n
-anumtype1/nanummjmb4.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumty
-pe1/nanummjmb5.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/na
-nummjmb7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjm
-b8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb
-><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb><c:/t
-exlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.pfb><c:/texlive
-/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbc.pfb><c:/texlive/2018/
-texmf-dist/fonts/type1/public/nanumtype1/nanummjmbd.pfb><c:/texlive/2018/texmf-
-dist/fonts/type1/public/nanumtype1/nanummjmbe.pfb><c:/texlive/2018/texmf-dist/f
-onts/type1/public/nanumtype1/nanummjmc0.pfb><c:/texlive/2018/texmf-dist/fonts/t
-ype1/public/nanumtype1/nanummjmc1.pfb><c:/texlive/2018/texmf-dist/fonts/type1/p
-ublic/nanumtype1/nanummjmc2.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/
-nanumtype1/nanummjmc5.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumt
-ype1/nanummjmc6.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/n
-anummjmc7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummj
-mc8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc9.pf
-b><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcc.pfb><c:/
-texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcd.pfb><c:/texliv
-e/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmce.pfb><c:/texlive/2018
-/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcf.pfb><c:/texlive/2018/texmf
--dist/fonts/type1/public/nanumtype1/nanummjmd0.pfb><c:/texlive/2018/texmf-dist/
-fonts/type1/public/nanumtype1/nanummjmd1.pfb><c:/texlive/2018/texmf-dist/fonts/
-type1/public/nanumtype1/nanummjmd2.pfb><c:/texlive/2018/texmf-dist/fonts/type1/
-public/nanumtype1/nanummjmd3.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public
-/nanumtype1/nanummjmd4.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanum
-type1/nanummjmd5.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/
-nanummjmd6.pfb><c:/texlive/2018/texmf-dist/fonts/type1/uhc/umj/umj22.pfb><c:/te
-xlive/2018/texmf-dist/fonts/type1/uhc/umj/umj26.pfb><c:/texlive/2018/texmf-dist
-/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/sy
-mbol/usyr.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/
-texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2018/texmf
--dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on gshs_thesis_17021_main.pdf (25 pages, 5510842 bytes).
+ist/fonts/type1/public/nanumtype1/nanummjmaf.pfb><c:/texlive/2018/texmf-dist/fo
+nts/type1/public/nanumtype1/nanummjmb0.pfb><c:/texlive/2018/texmf-dist/fonts/ty
+pe1/public/nanumtype1/nanummjmb1.pfb><c:/texlive/2018/texmf-dist/fonts/type1/pu
+blic/nanumtype1/nanummjmb2.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/n
+anumtype1/nanummjmb3.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumty
+pe1/nanummjmb4.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/na
+nummjmb5.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjm
+b6.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb7.pfb
+><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb><c:/t
+exlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb><c:/texlive
+/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb><c:/texlive/2018/
+texmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.pfb><c:/texlive/2018/texmf-
+dist/fonts/type1/public/nanumtype1/nanummjmbc.pfb><c:/texlive/2018/texmf-dist/f
+onts/type1/public/nanumtype1/nanummjmbd.pfb><c:/texlive/2018/texmf-dist/fonts/t
+ype1/public/nanumtype1/nanummjmbe.pfb><c:/texlive/2018/texmf-dist/fonts/type1/p
+ublic/nanumtype1/nanummjmc0.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/
+nanumtype1/nanummjmc1.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumt
+ype1/nanummjmc2.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/n
+anummjmc3.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummj
+mc4.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pf
+b><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc6.pfb><c:/
+texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc7.pfb><c:/texliv
+e/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc8.pfb><c:/texlive/2018
+/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc9.pfb><c:/texlive/2018/texmf
+-dist/fonts/type1/public/nanumtype1/nanummjmcc.pfb><c:/texlive/2018/texmf-dist/
+fonts/type1/public/nanumtype1/nanummjmcd.pfb><c:/texlive/2018/texmf-dist/fonts/
+type1/public/nanumtype1/nanummjmce.pfb><c:/texlive/2018/texmf-dist/fonts/type1/
+public/nanumtype1/nanummjmcf.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public
+/nanumtype1/nanummjmd0.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanum
+type1/nanummjmd1.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/
+nanummjmd2.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanumm
+jmd3.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd4.p
+fb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pfb><c:
+/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb><c:/texli
+ve/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb><c:/texlive/201
+8/texmf-dist/fonts/type1/uhc/umj/umj22.pfb><c:/texlive/2018/texmf-dist/fonts/ty
+pe1/uhc/umj/umj26.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/symbol/usyr.p
+fb><c:/texlive/2018/texmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/2018
+/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2018/texmf-dist/fonts/
+type1/urw/times/utmr8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/ut
+mri8a.pfb>
+Output written on gshs_thesis_17021_main.pdf (26 pages, 5856561 bytes).
 PDF statistics:
- 617 PDF objects out of 1000 (max. 8388607)
- 294 compressed objects within 3 object streams
+ 641 PDF objects out of 1000 (max. 8388607)
+ 311 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  108 words of extra memory for PDF output out of 10000 (max. 10000000)
 
