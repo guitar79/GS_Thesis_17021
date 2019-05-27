@@ -46,7 +46,7 @@ def exponenial_func(x, a, b, c, d, e, f):
         return a+b*np.exp(-(x-f)/c)+d*np.exp(-(x-f)/e)
     
 #list for drawing chart
-f_names = ['pt1.txt', 'pt2.txt', 'pt3.txt', 'pt4.txt', 'pt5.txt', 'pt6.txt', 'pt7.txt', 'pt8.txt']
+f_names = ['pt01.txt', 'pt02.txt', 'pt03.txt', 'pt04.txt', 'pt05.txt', 'pt06.txt', 'pt07.txt', 'pt08.txt', 'pt09.txt', 'pt010.txt', 'pt011.txt', 'pt012.txt', 'pt013.txt']
 
 #processing each files
 for f_name in f_names :
@@ -85,7 +85,7 @@ for f_name in f_names :
         print('last value of y:', y[last_iy])
         print(y[max_iy:last_iy])
         
-    p00 = (5.18487289e+01, 1.98739841e+04, 8.87326337e-01, 1.94470209e+04, 2.32283572e-01, 2.86684750e+01)
+    p00 = (5.18487289e+01, 1.98739841e+04, 1.17, 1.94470209e+04, 0.51, 2.86684750e+01)
     popt, pcov = curve_fit(exponenial_func, x[max_iy:], y[max_iy:], p0=p00)
     
     xx = np.linspace(0, 50, 1000)
@@ -93,6 +93,8 @@ for f_name in f_names :
     
     print('popt :', popt)
     print('pcov :', pcov)
+    print('ratio1:', popt[2]/popt[4])
+    print('ratio2:', popt[4]/popt[2])
     
     plt.figure(1, figsize = (15,10))
     plt.plot(x, y, 'o', xx, yy, marker='o', linestyle='dashed', linewidth=1, markersize=2)
@@ -100,10 +102,12 @@ for f_name in f_names :
     plt.xlim(28, 52)
     plt.ylim(-100, 70000)
     #plt.ylim(0, max(y)+1000)
-    plt.title('Exponential Fit', fontsize=16)
+    plt.title('TRPL Exponential Fit of CsPbBr3', fontsize=16)
     plt.text(45, 2000, 'max_iy : {0}'.format(max_iy), horizontalalignment='left', verticalalignment='center')
     plt.text(30, -5000, 'p00 : {0}'.format(p00), horizontalalignment='left', verticalalignment='center')
     plt.text(30, -8000, 'popt : {0}'.format(popt), horizontalalignment='left', verticalalignment='center')
+    plt.text(45, -5000,'x-axis : ns')
+    plt.text(45, -6000,'y-axis : a.u.')
     if  save_chart == True :
         #plt.savefig('{0}{1}_{2}.pdf'.format(chart_dir_name, f_name[:-4], start_time.strftime("%Y%m%d%H%M%S")))
         plt.savefig('{0}{1}_{2}.png'.format(chart_dir_name, f_name[:-4], cht_start_time.strftime("%Y%m%d%H%M%S")))
@@ -116,5 +120,7 @@ for f_name in f_names :
         result += 'p00 : {0}\n'.format(p00)
         result += 'popt : {0}\n'.format(popt)
         result += 'pcov : {0}\n'.format(pcov)
+        result += 'ratio1:{0}\n'.format(popt[2]/popt[4])
+        result += 'ratio2:{0}\n'.format(popt[4]/popt[2])
         result_f.write(result)
     plt.show()
