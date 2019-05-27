@@ -3,17 +3,12 @@
 \contentsline {section}{List of Figures}{iv}
 \contentsline {section}{List of Tables}{v}
 \contentsline {section}{\numberline {I}서론}{1}
-\contentsline {section}{\numberline {II}Obervations and Data Reduction}{3}
-\contentsline {subsection}{\numberline {II.1}Observation Region}{3}
-\contentsline {subsection}{\numberline {II.2}Observation Data}{3}
-\contentsline {subsection}{\numberline {II.3}Identification of Outflows}{4}
-\contentsline {subsection}{\numberline {II.4}Calculating Momentum Flux}{6}
-\contentsline {section}{\numberline {III}Results}{7}
-\contentsline {subsection}{\numberline {III.1}Outflow Identification}{7}
-\contentsline {subsubsection}{\numberline {III.1.1}$^{12}$CO J = 2 - 1 Observations}{8}
-\contentsline {subsubsection}{\numberline {III.1.2}$^{12}$CO J = 1 - 0 Observations}{12}
-\contentsline {subsection}{\numberline {III.2}Momentum Flux}{13}
-\contentsline {subsection}{\numberline {III.3}Momentum flux vs. Bolometric luminosity}{14}
-\contentsline {subsection}{\numberline {III.4}Momentum flux by emission line energy level}{15}
-\contentsline {section}{\numberline {IV}Conclusion}{16}
-\contentsline {section}{연구활동}{17}
+\contentsline {section}{\numberline {II}실험 과정}{3}
+\contentsline {subsection}{\numberline {II.1}준비}{3}
+\contentsline {subsection}{\numberline {II.2}분석}{3}
+\contentsline {section}{\numberline {III}Results}{4}
+\contentsline {subsection}{\numberline {III.1}Optic Microscopy}{4}
+\contentsline {subsubsection}{\numberline {III.1.1}X-Ray Diffraction}{5}
+\contentsline {subsection}{\numberline {III.2}TRPL spectroscopy}{6}
+\contentsline {section}{\numberline {IV}Conclusion}{7}
+\contentsline {section}{연구활동}{8}

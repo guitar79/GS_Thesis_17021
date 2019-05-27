@@ -13,9 +13,9 @@ A level-1 auxiliary file: sub/result.aux
 A level-1 auxiliary file: sub/conclusion.aux
 A level-1 auxiliary file: sub/footer.aux
 I found no style file---while reading file gshs_thesis_17021_main.aux
-You've used 18 entries,
+You've used 7 entries,
             0 wiz_defined-function locations,
-            109 strings with 943 characters,
+            98 strings with 759 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0
