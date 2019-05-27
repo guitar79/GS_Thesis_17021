@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.25)  27 MAY 2019 12:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.25)  27 MAY 2019 23:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1146,8 +1146,17 @@ LaTeX Warning: Unused global option(s):
     [pdftex].
 
 (./gshs_thesis_17021_main.aux (./sub/abstract.aux) (./sub/introduction.aux)
-(./sub/methodology.aux) (./sub/result.aux) (./sub/conclusion.aux)
-(./sub/footer.aux))
+(./sub/methodology.aux) (./sub/result.aux
+
+LaTeX Warning: Label `fig:FIR221' multiply defined.
+
+
+LaTeX Warning: Label `fig:FIR221' multiply defined.
+
+
+LaTeX Warning: Label `fig:FIR221' multiply defined.
+
+) (./sub/conclusion.aux) (./sub/footer.aux))
 \openout1 = `gshs_thesis_17021_main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -1356,12 +1365,22 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 
  [3
 
-] (./gshs_thesis_17021_main.lof)
+] (./gshs_thesis_17021_main.lof
+
+LaTeX Warning: Citation `turner2013global' on page iv undefined on input line 1
+.
+
+
+Overfull \hbox (3.57054pt too wide) in paragraph at lines 5--5
+ [][] []\T1/ptm/m/n/10.95 TRPL graph was fit-ted with sum of ex-po-nen-tial fun
+c-tions.x axis is time(ns) 
+ []
+
+)
 \tf@lof=\write5
 \openout5 = `gshs_thesis_17021_main.lof'.
 
-
-[4
+ [4
 
 
 ] (./gshs_thesis_17021_main.lot)
@@ -1382,79 +1401,121 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <21> not available
 LaTeX Warning: Citation `turner2013global' on page 1 undefined on input line 7.
 
 
+<images/perovskite_structure.jpg, id=95, 284.06125pt x 217.81375pt>
+File: images/perovskite_structure.jpg Graphic file (type jpg)
+<use images/perovskite_structure.jpg>
+Package pdftex.def Info: images/perovskite_structure.jpg  used on input line 11
+.
+(pdftex.def)             Requested size: 199.16928pt x 152.72449pt.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 13.
+
+LaTeX Warning: Citation `turner2013global' on page 1 undefined on input line 13
+.
+
 
 LaTeX Warning: Citation `ruhle2016tabulated' on page 1 undefined on input line 
-9.
+17.
 
 
 LaTeX Warning: Citation `linaburg2015studies' on page 1 undefined on input line
- 9.
+ 17.
 
 
 LaTeX Warning: Citation `green2014emergence' on page 1 undefined on input line 
-9.
+17.
 
 
-LaTeX Warning: Citation `khoram2016growth' on page 1 undefined on input line 11
+LaTeX Warning: Citation `khoram2016growth' on page 1 undefined on input line 19
 .
 
 
 LaTeX Warning: Citation `brittman2017controlling' on page 1 undefined on input 
-line 11.
+line 19.
 
 
-LaTeX Warning: Citation `chen2018room' on page 1 undefined on input line 14.
+LaTeX Warning: Citation `chen2018room' on page 1 undefined on input line 22.
 
 [1
 
 
 
 
-]) [2]
+ <./images/perovskite_structure.jpg>] [2]) [3]
 \openout2 = `sub/methodology.aux'.
 
  (./sub/methodology.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <16> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 3.
-) [3
-
-
-]
-\openout2 = `sub/result.aux'.
-
- (./sub/result.tex
-<images/optic.jpg, id=110, 668.7384pt x 501.072pt>
-File: images/optic.jpg Graphic file (type jpg)
-<use images/optic.jpg>
-Package pdftex.def Info: images/optic.jpg  used on input line 9.
-(pdftex.def)             Requested size: 199.16928pt x 149.22942pt.
-<images/crystal.jpg, id=111, 163.10938pt x 140.525pt>
-File: images/crystal.jpg Graphic file (type jpg)
-<use images/crystal.jpg>
-Package pdftex.def Info: images/crystal.jpg  used on input line 9.
-(pdftex.def)             Requested size: 199.16928pt x 171.60748pt.
-
-Overfull \hbox (9.7736pt too wide) in paragraph at lines 8--11
- [] 
- []
-
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 11.
+<images/sonic.jpg, id=109, 1445.4pt x 1445.4pt>
+File: images/sonic.jpg Graphic file (type jpg)
+<use images/sonic.jpg>
+Package pdftex.def Info: images/sonic.jpg  used on input line 8.
+(pdftex.def)             Requested size: 113.81102pt x 113.80379pt.
+<images/spin_coater.jpg, id=110, 1445.4pt x 1445.4pt>
+File: images/spin_coater.jpg Graphic file (type jpg)
+<use images/spin_coater.jpg>
+Package pdftex.def Info: images/spin_coater.jpg  used on input line 8.
+(pdftex.def)             Requested size: 113.81102pt x 113.80379pt.
+<images/pdms_stamping.jpg, id=111, 1445.4pt x 1445.4pt>
+File: images/pdms_stamping.jpg Graphic file (type jpg)
+<use images/pdms_stamping.jpg>
+Package pdftex.def Info: images/pdms_stamping.jpg  used on input line 9.
+(pdftex.def)             Requested size: 113.81102pt x 113.80379pt.
+)
 [4
 
 
- <./images/optic.jpg> <./images/crystal.JPG>] [5]) [6
+ <./images/sonic.jpg> <./images/spin_coater.jpg> <./images/pdms_stamping.jpg>]
+\openout2 = `sub/result.aux'.
 
-]
+ (./sub/result.tex
+<images/optic.jpg, id=118, 668.7384pt x 501.072pt>
+File: images/optic.jpg Graphic file (type jpg)
+<use images/optic.jpg>
+Package pdftex.def Info: images/optic.jpg  used on input line 9.
+(pdftex.def)             Requested size: 142.26378pt x 106.58916pt.
+<images/crystal.jpg, id=119, 163.10938pt x 140.525pt>
+File: images/crystal.jpg Graphic file (type jpg)
+<use images/crystal.jpg>
+Package pdftex.def Info: images/crystal.jpg  used on input line 9.
+(pdftex.def)             Requested size: 142.26378pt x 122.57524pt.
+<images/crystal_made.jpg, id=120, 183.68625pt x 151.56625pt>
+File: images/crystal_made.jpg Graphic file (type jpg)
+<use images/crystal_made.jpg>
+Package pdftex.def Info: images/crystal_made.jpg  used on input line 10.
+(pdftex.def)             Requested size: 142.26378pt x 117.39555pt.
+
+Overfull \hbox (50.22638pt too wide) in paragraph at lines 8--12
+ [] 
+ []
+
+<images/XRD.jpg, id=121, 341.275pt x 228.855pt>
+File: images/XRD.jpg Graphic file (type jpg)
+<use images/XRD.jpg>
+Package pdftex.def Info: images/XRD.jpg  used on input line 20.
+(pdftex.def)             Requested size: 284.52756pt x 190.81212pt.
+[5
+
+
+ <./images/optic.jpg> <./images/crystal.JPG> <./images/crystal_made.jpg> <./ima
+ges/XRD.jpg>]
+<images/TRPL_graph.jpg, id=126, 411.5375pt x 293.59688pt>
+File: images/TRPL_graph.jpg Graphic file (type jpg)
+<use images/TRPL_graph.jpg>
+Package pdftex.def Info: images/TRPL_graph.jpg  used on input line 32.
+(pdftex.def)             Requested size: 398.33858pt x 284.18382pt.
+ [6 <./images/TRPL_graph.JPG>]) [7]
 \openout2 = `sub/conclusion.aux'.
 
- (./sub/conclusion.tex) [7
+ (./sub/conclusion.tex)
+[8
 
 
 ] (./gshs_thesis_17021_main.bbl)
 \openout2 = `sub/footer.aux'.
 
- (./sub/footer.tex [8
+ (./sub/footer.tex [9
 
 
 ])
@@ -1467,15 +1528,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 30862 strings out of 492649
- 730524 string characters out of 6133384
- 922164 words of memory out of 5000000
- 33963 multiletter control sequences out of 15000+600000
- 139222 words of font info for 294 fonts, out of 8000000 for 9000
+ 30897 strings out of 492649
+ 731346 string characters out of 6133384
+ 923212 words of memory out of 5000000
+ 33990 multiletter control sequences out of 15000+600000
+ 137479 words of font info for 294 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,18n,138p,1463b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,18n,138p,1477b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2018/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2018/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1
@@ -1536,16 +1600,17 @@ mjmd3.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd4.
 pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pfb><c
 :/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb><c:/texl
 ive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb><c:/texlive/20
-18/texmf-dist/fonts/type1/uhc/umj/umj20.pfb><c:/texlive/2018/texmf-dist/fonts/t
-ype1/uhc/umj/umj34.pfb><c:/texlive/2018/texmf-dist/fonts/type1/uhc/umj/umj36.pf
-b><c:/texlive/2018/texmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/2018/
-texmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/2018/texmf-dist/fonts/ty
-pe1/urw/times/utmb8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr
-8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on gshs_thesis_17021_main.pdf (17 pages, 2928520 bytes).
+18/texmf-dist/fonts/type1/uhc/umj/umj01.pfb><c:/texlive/2018/texmf-dist/fonts/t
+ype1/uhc/umj/umj20.pfb><c:/texlive/2018/texmf-dist/fonts/type1/uhc/umj/umj34.pf
+b><c:/texlive/2018/texmf-dist/fonts/type1/uhc/umj/umj36.pfb><c:/texlive/2018/te
+xmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/2018/texmf-dist/fonts/type
+1/urw/symbol/usyr.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmb8a.
+pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/20
+18/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on gshs_thesis_17021_main.pdf (18 pages, 4239397 bytes).
 PDF statistics:
- 355 PDF objects out of 1000 (max. 8388607)
- 259 compressed objects within 3 object streams
+ 369 PDF objects out of 1000 (max. 8388607)
+ 264 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 58 words of extra memory for PDF output out of 10000 (max. 10000000)
 
