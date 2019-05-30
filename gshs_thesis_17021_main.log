@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.25)  29 MAY 2019 20:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.25)  30 MAY 2019 22:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1156,11 +1156,13 @@ LaTeX Warning: Label `fig:FIR221' multiply defined.
 
 LaTeX Warning: Label `fig:FIR221' multiply defined.
 
-) (./sub/conclusion.aux
 
 LaTeX Warning: Label `fig:FIR221' multiply defined.
 
-) (./sub/footer.aux))
+
+LaTeX Warning: Label `fig:FIR221' multiply defined.
+
+) (./sub/conclusion.aux) (./sub/footer.aux))
 \openout1 = `gshs_thesis_17021_main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -1322,19 +1324,29 @@ LaTeX Font Info:    Try loading font information for OT1+ptm on input line 1.
 (c:/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Try loading font information for TS1+ptm on input line 1.
 
 (c:/texlive/2018/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Try loading font information for LUC+uhcmj on input line 1.
 
 
@@ -1353,10 +1365,6 @@ LaTeX Font Warning: Font shape `LUC/uhcmj/bx/n' undefined
 {c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
  [3]
@@ -1499,6 +1507,9 @@ File: images/XRD.jpg Graphic file (type jpg)
 <use images/XRD.jpg>
 Package pdftex.def Info: images/XRD.jpg  used on input line 20.
 (pdftex.def)             Requested size: 284.52756pt x 190.81212pt.
+
+LaTeX Warning: Citation `Jain2013' on page 5 undefined on input line 26.
+
 [5
 
 
@@ -1509,41 +1520,67 @@ File: images/TRPL_graph.jpg Graphic file (type jpg)
 <use images/TRPL_graph.jpg>
 Package pdftex.def Info: images/TRPL_graph.jpg  used on input line 32.
 (pdftex.def)             Requested size: 398.33858pt x 284.18382pt.
- [6 <./images/TRPL_graph.JPG>]) [7]
-\openout2 = `sub/conclusion.aux'.
-
- (./sub/conclusion.tex
-<images/ND0.jpg, id=135, 514.92375pt x 329.23pt>
+<images/ND0.jpg, id=124, 514.92375pt x 329.23pt>
 File: images/ND0.jpg Graphic file (type jpg)
 <use images/ND0.jpg>
-Package pdftex.def Info: images/ND0.jpg  used on input line 14.
+Package pdftex.def Info: images/ND0.jpg  used on input line 44.
 (pdftex.def)             Requested size: 199.16928pt x 127.34421pt.
-<images/ND1.jpg, id=136, 482.80376pt x 313.17pt>
+<images/ND1.jpg, id=125, 482.80376pt x 313.17pt>
 File: images/ND1.jpg Graphic file (type jpg)
 <use images/ND1.jpg>
-Package pdftex.def Info: images/ND1.jpg  used on input line 15.
+Package pdftex.def Info: images/ND1.jpg  used on input line 45.
 (pdftex.def)             Requested size: 199.16928pt x 129.18898pt.
 
-Overfull \hbox (9.7736pt too wide) in paragraph at lines 13--17
+Overfull \hbox (9.7736pt too wide) in paragraph at lines 43--47
  [] 
  []
 
+[6 <./images/TRPL_graph.JPG>] [7 <./images/ND0.jpg> <./images/ND1.jpg>]
+<images/ND0TRPL1.jpg, id=137, 819.06pt x 651.43375pt>
+File: images/ND0TRPL1.jpg Graphic file (type jpg)
+<use images/ND0TRPL1.jpg>
+Package pdftex.def Info: images/ND0TRPL1.jpg  used on input line 57.
+(pdftex.def)             Requested size: 199.16928pt x 158.40488pt.
+<images/ND0TRPL2.jpg, id=138, 801.99625pt x 659.46375pt>
+File: images/ND0TRPL2.jpg Graphic file (type jpg)
+<use images/ND0TRPL2.jpg>
+Package pdftex.def Info: images/ND0TRPL2.jpg  used on input line 58.
+(pdftex.def)             Requested size: 199.16928pt x 163.7687pt.
+<images/ND1TRPL1.jpg, id=139, 777.90625pt x 647.41875pt>
+File: images/ND1TRPL1.jpg Graphic file (type jpg)
+<use images/ND1TRPL1.jpg>
+Package pdftex.def Info: images/ND1TRPL1.jpg  used on input line 59.
+(pdftex.def)             Requested size: 199.16928pt x 165.75641pt.
+<images/ND1TRPL2.jpg, id=140, 839.135pt x 681.54625pt>
+File: images/ND1TRPL2.jpg Graphic file (type jpg)
+<use images/ND1TRPL2.jpg>
+Package pdftex.def Info: images/ND1TRPL2.jpg  used on input line 60.
+(pdftex.def)             Requested size: 199.16928pt x 161.76492pt.
 
-LaTeX Warning: Citation `chen2018room' on page 8 undefined on input line 21.
+Overfull \hbox (9.7736pt too wide) in paragraph at lines 56--62
+ [] 
+ []
 
 ) [8
 
+ <./images/ND0TRPL1.jpg> <./images/ND0TRPL2.jpg> <./images/ND1TRPL1.jpg> <./ima
+ges/ND1TRPL2.jpg>]
+\openout2 = `sub/conclusion.aux'.
 
- <./images/ND0.jpg> <./images/ND1.jpg>] (./gshs_thesis_17021_main.bbl)
+ (./sub/conclusion.tex
+
+LaTeX Warning: Citation `chen2018room' on page 9 undefined on input line 11.
+
+) [9
+
+
+] (./gshs_thesis_17021_main.bbl)
 \openout2 = `sub/footer.aux'.
 
-
-(./sub/footer.tex [9
-
-
-]) (./gshs_thesis_17021_main.aux (./sub/abstract.aux)
-(./sub/introduction.aux) (./sub/methodology.aux) (./sub/result.aux)
-(./sub/conclusion.aux) (./sub/footer.aux))
+ (./sub/footer.tex)
+(./gshs_thesis_17021_main.aux (./sub/abstract.aux) (./sub/introduction.aux)
+(./sub/methodology.aux) (./sub/result.aux) (./sub/conclusion.aux)
+(./sub/footer.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1555,11 +1592,11 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 30903 strings out of 492649
- 731410 string characters out of 6133384
- 923212 words of memory out of 5000000
- 33994 multiletter control sequences out of 15000+600000
- 136275 words of font info for 290 fonts, out of 8000000 for 9000
+ 30956 strings out of 492649
+ 732259 string characters out of 6133384
+ 923225 words of memory out of 5000000
+ 34036 multiletter control sequences out of 15000+600000
+ 149264 words of font info for 323 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,18n,138p,1477b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2018/texm
@@ -1569,70 +1606,68 @@ nts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1
 lic/nanumtype1/nanummjbac.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/na
 numtype1/nanummjbad.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtyp
 e1/nanummjbae.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nan
-ummjbb3.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb
-4.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb8.pfb>
-<c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb9.pfb><c:/te
-xlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbc.pfb><c:/texlive/
-2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbd.pfb><c:/texlive/2018/t
-exmf-dist/fonts/type1/public/nanumtype1/nanummjbbe.pfb><c:/texlive/2018/texmf-d
-ist/fonts/type1/public/nanumtype1/nanummjbc1.pfb><c:/texlive/2018/texmf-dist/fo
-nts/type1/public/nanumtype1/nanummjbc2.pfb><c:/texlive/2018/texmf-dist/fonts/ty
-pe1/public/nanumtype1/nanummjbc5.pfb><c:/texlive/2018/texmf-dist/fonts/type1/pu
-blic/nanumtype1/nanummjbc6.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/n
-anumtype1/nanummjbc7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumty
-pe1/nanummjbc8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/na
-nummjbc9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjb
-cd.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd5.pfb
-><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd6.pfb><c:/t
-exlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmac.pfb><c:/texlive
-/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb><c:/texlive/2018/
-texmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb><c:/texlive/2018/texmf-
-dist/fonts/type1/public/nanumtype1/nanummjmaf.pfb><c:/texlive/2018/texmf-dist/f
-onts/type1/public/nanumtype1/nanummjmb0.pfb><c:/texlive/2018/texmf-dist/fonts/t
-ype1/public/nanumtype1/nanummjmb1.pfb><c:/texlive/2018/texmf-dist/fonts/type1/p
-ublic/nanumtype1/nanummjmb2.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/
-nanumtype1/nanummjmb3.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumt
-ype1/nanummjmb4.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/n
-anummjmb5.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummj
-mb6.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb7.pf
-b><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb><c:/
-texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb><c:/texliv
-e/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb><c:/texlive/2018
-/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.pfb><c:/texlive/2018/texmf
--dist/fonts/type1/public/nanumtype1/nanummjmbc.pfb><c:/texlive/2018/texmf-dist/
-fonts/type1/public/nanumtype1/nanummjmbd.pfb><c:/texlive/2018/texmf-dist/fonts/
-type1/public/nanumtype1/nanummjmbe.pfb><c:/texlive/2018/texmf-dist/fonts/type1/
-public/nanumtype1/nanummjmc0.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public
-/nanumtype1/nanummjmc1.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanum
-type1/nanummjmc2.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/
-nanummjmc3.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanumm
-jmc4.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.p
-fb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc6.pfb><c:
-/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc7.pfb><c:/texli
-ve/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc8.pfb><c:/texlive/201
-8/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc9.pfb><c:/texlive/2018/texm
-f-dist/fonts/type1/public/nanumtype1/nanummjmcc.pfb><c:/texlive/2018/texmf-dist
-/fonts/type1/public/nanumtype1/nanummjmcd.pfb><c:/texlive/2018/texmf-dist/fonts
-/type1/public/nanumtype1/nanummjmce.pfb><c:/texlive/2018/texmf-dist/fonts/type1
-/public/nanumtype1/nanummjmcf.pfb><c:/texlive/2018/texmf-dist/fonts/type1/publi
-c/nanumtype1/nanummjmd0.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanu
-mtype1/nanummjmd1.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1
-/nanummjmd2.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanum
-mjmd3.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd4.
-pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pfb><c
-:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb><c:/texl
-ive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb><c:/texlive/20
-18/texmf-dist/fonts/type1/uhc/umj/umj01.pfb><c:/texlive/2018/texmf-dist/fonts/t
-ype1/uhc/umj/umj20.pfb><c:/texlive/2018/texmf-dist/fonts/type1/uhc/umj/umj34.pf
-b><c:/texlive/2018/texmf-dist/fonts/type1/uhc/umj/umj36.pfb><c:/texlive/2018/te
-xmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/2018/texmf-dist/fonts/type
-1/urw/symbol/usyr.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmb8a.
-pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/20
-18/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on gshs_thesis_17021_main.pdf (18 pages, 4286778 bytes).
+ummjbb4.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb
+8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb9.pfb>
+<c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbc.pfb><c:/te
+xlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbd.pfb><c:/texlive/
+2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbe.pfb><c:/texlive/2018/t
+exmf-dist/fonts/type1/public/nanumtype1/nanummjbc1.pfb><c:/texlive/2018/texmf-d
+ist/fonts/type1/public/nanumtype1/nanummjbc2.pfb><c:/texlive/2018/texmf-dist/fo
+nts/type1/public/nanumtype1/nanummjbc6.pfb><c:/texlive/2018/texmf-dist/fonts/ty
+pe1/public/nanumtype1/nanummjbc7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/pu
+blic/nanumtype1/nanummjbc8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/n
+anumtype1/nanummjbc9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumty
+pe1/nanummjbcd.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/na
+nummjbd5.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjm
+ac.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb
+><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb><c:/t
+exlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmaf.pfb><c:/texlive
+/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb0.pfb><c:/texlive/2018/
+texmf-dist/fonts/type1/public/nanumtype1/nanummjmb1.pfb><c:/texlive/2018/texmf-
+dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb><c:/texlive/2018/texmf-dist/f
+onts/type1/public/nanumtype1/nanummjmb3.pfb><c:/texlive/2018/texmf-dist/fonts/t
+ype1/public/nanumtype1/nanummjmb4.pfb><c:/texlive/2018/texmf-dist/fonts/type1/p
+ublic/nanumtype1/nanummjmb5.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/
+nanumtype1/nanummjmb6.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumt
+ype1/nanummjmb7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/n
+anummjmb8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummj
+mb9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pf
+b><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.pfb><c:/
+texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbc.pfb><c:/texliv
+e/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbd.pfb><c:/texlive/2018
+/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbe.pfb><c:/texlive/2018/texmf
+-dist/fonts/type1/public/nanumtype1/nanummjmc0.pfb><c:/texlive/2018/texmf-dist/
+fonts/type1/public/nanumtype1/nanummjmc1.pfb><c:/texlive/2018/texmf-dist/fonts/
+type1/public/nanumtype1/nanummjmc2.pfb><c:/texlive/2018/texmf-dist/fonts/type1/
+public/nanumtype1/nanummjmc3.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public
+/nanumtype1/nanummjmc4.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanum
+type1/nanummjmc5.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/
+nanummjmc6.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanumm
+jmc7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc8.p
+fb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc9.pfb><c:
+/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmca.pfb><c:/texli
+ve/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcc.pfb><c:/texlive/201
+8/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcd.pfb><c:/texlive/2018/texm
+f-dist/fonts/type1/public/nanumtype1/nanummjmce.pfb><c:/texlive/2018/texmf-dist
+/fonts/type1/public/nanumtype1/nanummjmcf.pfb><c:/texlive/2018/texmf-dist/fonts
+/type1/public/nanumtype1/nanummjmd0.pfb><c:/texlive/2018/texmf-dist/fonts/type1
+/public/nanumtype1/nanummjmd1.pfb><c:/texlive/2018/texmf-dist/fonts/type1/publi
+c/nanumtype1/nanummjmd2.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanu
+mtype1/nanummjmd3.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1
+/nanummjmd4.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanum
+mjmd5.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.
+pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb><c
+:/texlive/2018/texmf-dist/fonts/type1/uhc/umj/umj01.pfb><c:/texlive/2018/texmf-
+dist/fonts/type1/uhc/umj/umj20.pfb><c:/texlive/2018/texmf-dist/fonts/type1/uhc/
+umj/umj34.pfb><c:/texlive/2018/texmf-dist/fonts/type1/uhc/umj/umj36.pfb><c:/tex
+live/2018/texmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/2018/texmf-dis
+t/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/t
+imes/utmb8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c
+:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on gshs_thesis_17021_main.pdf (18 pages, 4368483 bytes).
 PDF statistics:
- 371 PDF objects out of 1000 (max. 8388607)
- 264 compressed objects within 3 object streams
+ 367 PDF objects out of 1000 (max. 8388607)
+ 258 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 68 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 88 words of extra memory for PDF output out of 10000 (max. 10000000)
 
