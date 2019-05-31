@@ -1,7 +1,5 @@
 \contentsline {section}{Abstract}{i}
 \contentsline {section}{Contents}{iii}
-\contentsline {section}{List of Figures}{iv}
-\contentsline {section}{List of Tables}{v}
 \contentsline {section}{\numberline {I}서론}{1}
 \contentsline {section}{\numberline {II}실험 과정}{4}
 \contentsline {subsection}{\numberline {II.1}준비}{4}

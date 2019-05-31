@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.25)  30 MAY 2019 22:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.25)  31 MAY 2019 11:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1377,31 +1377,6 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 
  [3
 
-] (./gshs_thesis_17021_main.lof
-
-LaTeX Warning: Citation `turner2013global' on page iv undefined on input line 1
-.
-
-
-Overfull \hbox (3.57054pt too wide) in paragraph at lines 5--5
- [][] []\T1/ptm/m/n/10.95 TRPL graph was fit-ted with sum of ex-po-nen-tial fun
-c-tions.x axis is time(ns) 
- []
-
-)
-\tf@lof=\write5
-\openout5 = `gshs_thesis_17021_main.lof'.
-
- [4
-
-
-] (./gshs_thesis_17021_main.lot)
-\tf@lot=\write6
-\openout6 = `gshs_thesis_17021_main.lot'.
-
- [5
-
-
 ])
 \openout2 = `sub/introduction.aux'.
 
@@ -1413,7 +1388,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <21> not available
 LaTeX Warning: Citation `turner2013global' on page 1 undefined on input line 7.
 
 
-<images/perovskite_structure.jpg, id=92, 284.06125pt x 217.81375pt>
+<images/perovskite_structure.jpg, id=86, 284.06125pt x 217.81375pt>
 File: images/perovskite_structure.jpg Graphic file (type jpg)
 <use images/perovskite_structure.jpg>
 Package pdftex.def Info: images/perovskite_structure.jpg  used on input line 11
@@ -1459,17 +1434,17 @@ LaTeX Warning: Citation `chen2018room' on page 1 undefined on input line 22.
  (./sub/methodology.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <16> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 3.
-<images/sonic.jpg, id=106, 1445.4pt x 1445.4pt>
+<images/sonic.jpg, id=100, 1445.4pt x 1445.4pt>
 File: images/sonic.jpg Graphic file (type jpg)
 <use images/sonic.jpg>
 Package pdftex.def Info: images/sonic.jpg  used on input line 8.
 (pdftex.def)             Requested size: 113.81102pt x 113.80379pt.
-<images/spin_coater.jpg, id=107, 1445.4pt x 1445.4pt>
+<images/spin_coater.jpg, id=101, 1445.4pt x 1445.4pt>
 File: images/spin_coater.jpg Graphic file (type jpg)
 <use images/spin_coater.jpg>
 Package pdftex.def Info: images/spin_coater.jpg  used on input line 8.
 (pdftex.def)             Requested size: 113.81102pt x 113.80379pt.
-<images/pdms_stamping.jpg, id=108, 1445.4pt x 1445.4pt>
+<images/pdms_stamping.jpg, id=102, 1445.4pt x 1445.4pt>
 File: images/pdms_stamping.jpg Graphic file (type jpg)
 <use images/pdms_stamping.jpg>
 Package pdftex.def Info: images/pdms_stamping.jpg  used on input line 9.
@@ -1482,17 +1457,17 @@ Package pdftex.def Info: images/pdms_stamping.jpg  used on input line 9.
 \openout2 = `sub/result.aux'.
 
  (./sub/result.tex
-<images/optic.jpg, id=115, 668.7384pt x 501.072pt>
+<images/optic.jpg, id=108, 668.7384pt x 501.072pt>
 File: images/optic.jpg Graphic file (type jpg)
 <use images/optic.jpg>
 Package pdftex.def Info: images/optic.jpg  used on input line 9.
 (pdftex.def)             Requested size: 142.26378pt x 106.58916pt.
-<images/crystal.jpg, id=116, 163.10938pt x 140.525pt>
+<images/crystal.jpg, id=109, 163.10938pt x 140.525pt>
 File: images/crystal.jpg Graphic file (type jpg)
 <use images/crystal.jpg>
 Package pdftex.def Info: images/crystal.jpg  used on input line 9.
 (pdftex.def)             Requested size: 142.26378pt x 122.57524pt.
-<images/crystal_made.jpg, id=117, 183.68625pt x 151.56625pt>
+<images/crystal_made.jpg, id=110, 183.68625pt x 151.56625pt>
 File: images/crystal_made.jpg Graphic file (type jpg)
 <use images/crystal_made.jpg>
 Package pdftex.def Info: images/crystal_made.jpg  used on input line 10.
@@ -1502,7 +1477,7 @@ Overfull \hbox (50.22638pt too wide) in paragraph at lines 8--12
  [] 
  []
 
-<images/XRD.jpg, id=118, 341.275pt x 228.855pt>
+<images/XRD.jpg, id=111, 341.275pt x 228.855pt>
 File: images/XRD.jpg Graphic file (type jpg)
 <use images/XRD.jpg>
 Package pdftex.def Info: images/XRD.jpg  used on input line 20.
@@ -1515,17 +1490,17 @@ LaTeX Warning: Citation `Jain2013' on page 5 undefined on input line 26.
 
  <./images/optic.jpg> <./images/crystal.JPG> <./images/crystal_made.jpg> <./ima
 ges/XRD.jpg>]
-<images/TRPL_graph.jpg, id=123, 411.5375pt x 293.59688pt>
+<images/TRPL_graph.jpg, id=116, 411.5375pt x 293.59688pt>
 File: images/TRPL_graph.jpg Graphic file (type jpg)
 <use images/TRPL_graph.jpg>
 Package pdftex.def Info: images/TRPL_graph.jpg  used on input line 32.
 (pdftex.def)             Requested size: 398.33858pt x 284.18382pt.
-<images/ND0.jpg, id=124, 514.92375pt x 329.23pt>
+<images/ND0.jpg, id=117, 514.92375pt x 329.23pt>
 File: images/ND0.jpg Graphic file (type jpg)
 <use images/ND0.jpg>
 Package pdftex.def Info: images/ND0.jpg  used on input line 44.
 (pdftex.def)             Requested size: 199.16928pt x 127.34421pt.
-<images/ND1.jpg, id=125, 482.80376pt x 313.17pt>
+<images/ND1.jpg, id=118, 482.80376pt x 313.17pt>
 File: images/ND1.jpg Graphic file (type jpg)
 <use images/ND1.jpg>
 Package pdftex.def Info: images/ND1.jpg  used on input line 45.
@@ -1536,22 +1511,22 @@ Overfull \hbox (9.7736pt too wide) in paragraph at lines 43--47
  []
 
 [6 <./images/TRPL_graph.JPG>] [7 <./images/ND0.jpg> <./images/ND1.jpg>]
-<images/ND0TRPL1.jpg, id=137, 819.06pt x 651.43375pt>
+<images/ND0TRPL1.jpg, id=131, 819.06pt x 651.43375pt>
 File: images/ND0TRPL1.jpg Graphic file (type jpg)
 <use images/ND0TRPL1.jpg>
 Package pdftex.def Info: images/ND0TRPL1.jpg  used on input line 57.
 (pdftex.def)             Requested size: 199.16928pt x 158.40488pt.
-<images/ND0TRPL2.jpg, id=138, 801.99625pt x 659.46375pt>
+<images/ND0TRPL2.jpg, id=132, 801.99625pt x 659.46375pt>
 File: images/ND0TRPL2.jpg Graphic file (type jpg)
 <use images/ND0TRPL2.jpg>
 Package pdftex.def Info: images/ND0TRPL2.jpg  used on input line 58.
 (pdftex.def)             Requested size: 199.16928pt x 163.7687pt.
-<images/ND1TRPL1.jpg, id=139, 777.90625pt x 647.41875pt>
+<images/ND1TRPL1.jpg, id=133, 777.90625pt x 647.41875pt>
 File: images/ND1TRPL1.jpg Graphic file (type jpg)
 <use images/ND1TRPL1.jpg>
 Package pdftex.def Info: images/ND1TRPL1.jpg  used on input line 59.
 (pdftex.def)             Requested size: 199.16928pt x 165.75641pt.
-<images/ND1TRPL2.jpg, id=140, 839.135pt x 681.54625pt>
+<images/ND1TRPL2.jpg, id=134, 839.135pt x 681.54625pt>
 File: images/ND1TRPL2.jpg Graphic file (type jpg)
 <use images/ND1TRPL2.jpg>
 Package pdftex.def Info: images/ND1TRPL2.jpg  used on input line 60.
@@ -1592,10 +1567,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 30956 strings out of 492649
- 732259 string characters out of 6133384
+ 30948 strings out of 492649
+ 732131 string characters out of 6133384
  923225 words of memory out of 5000000
- 34036 multiletter control sequences out of 15000+600000
+ 34034 multiletter control sequences out of 15000+600000
  149264 words of font info for 323 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,18n,138p,1477b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1664,10 +1639,10 @@ live/2018/texmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/2018/texmf-dis
 t/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/t
 imes/utmb8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c
 :/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on gshs_thesis_17021_main.pdf (18 pages, 4368483 bytes).
+Output written on gshs_thesis_17021_main.pdf (16 pages, 4366188 bytes).
 PDF statistics:
- 367 PDF objects out of 1000 (max. 8388607)
- 258 compressed objects within 3 object streams
+ 361 PDF objects out of 1000 (max. 8388607)
+ 254 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  88 words of extra memory for PDF output out of 10000 (max. 10000000)
 
