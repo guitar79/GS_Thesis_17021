@@ -1,0 +1,51 @@
+\begin{thebibliography}{1}
+
+\bibitem[1]{turner2013global}
+Turner, G. (2013).
+\newblock Global renewable energy market outlook 2013.
+
+\bibitem[2]{ruhle2016tabulated}
+R{\"u}hle, S. (2016).
+\newblock Tabulated values of the shockley--queisser limit for single junction
+  solar cells.
+\newblock {\em Solar Energy}, {\em 130}, 139--147.
+
+\bibitem[3]{linaburg2015studies}
+Linaburg, M.~R. (2015).
+\newblock {\em Studies of Halide Perovskites CsPbX 3, RbPbX 3 (X= Cl-, Br-,
+  I-), and Their Solid Solutions}.
+\newblock PhD thesis, The Ohio State University.
+
+\bibitem[4]{green2014emergence}
+Green, M.~A., Ho-Baillie, A., \& Snaith, H.~J. (2014).
+\newblock The emergence of perovskite solar cells.
+\newblock {\em Nature photonics}, {\em 8\/}(7), 506.
+
+\bibitem[5]{khoram2016growth}
+Khoram, P., Brittman, S., Dzik, W.~I., Reek, J.~N., \& Garnett, E.~C. (2016).
+\newblock Growth and characterization of pdms-stamped halide perovskite single
+  microcrystals.
+\newblock {\em The Journal of Physical Chemistry C}, {\em 120\/}(12),
+  6475--6481.
+
+\bibitem[6]{brittman2017controlling}
+Brittman, S., Oener, S.~Z., Guo, K., {\=A}boli{\c{n}}{\v{s}}, H., Koenderink,
+  A.~F., \& Garnett, E.~C. (2017).
+\newblock Controlling crystallization to imprint nanophotonic structures into
+  halide perovskites using soft lithography.
+\newblock {\em Journal of Materials Chemistry C}, {\em 5\/}(32), 8301--8307.
+
+\bibitem[7]{chen2018room}
+Chen, J., Zhang, Q., Du, W., Mi, Y., Shang, Q., Shi, J., .~.~. et~al. (2018).
+\newblock Room temperature continuous-wave excited biexciton emission in
+  cspbbr3 nanocrystals.
+\newblock {\em arXiv preprint arXiv:1804.09782}.
+
+\bibitem[8]{Jain2013}
+Jain, A., Ong, S.~P., Hautier, G., Chen, W., Richards, W.~D., Dacek, S., .~.~.
+  \& Persson, K.~a. (2013).
+\newblock {Commentary: The Materials Project: A materials genome approach to
+  accelerating materials innovation}.
+\newblock {\em APL Materials}, {\em 1\/}(1), 011002.
+
+\end{thebibliography}
