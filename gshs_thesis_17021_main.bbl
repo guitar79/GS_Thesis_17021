@@ -1,8 +1,9 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem[1]{turner2013global}
 Turner, G. (2013).
 \newblock Global renewable energy market outlook 2013.
+\newblock {\em Bloomberg New Energy Finance}, {\em 26}.
 
 \bibitem[2]{ruhle2016tabulated}
 R{\"u}hle, S. (2016).
@@ -21,27 +22,54 @@ Green, M.~A., Ho-Baillie, A., \& Snaith, H.~J. (2014).
 \newblock The emergence of perovskite solar cells.
 \newblock {\em Nature photonics}, {\em 8\/}(7), 506.
 
-\bibitem[5]{khoram2016growth}
+\bibitem[5]{kojima2006novel}
+Kojima, A., Teshima, K., Miyasaka, T., \& Shirai, Y. (2006).
+\newblock Novel photoelectrochemical cell with mesoscopic electrodes sensitized
+  by lead-halide compounds (2).
+\newblock In {\em Meeting Abstracts}, number~7, (pp.\ 397--397). The
+  Electrochemical Society.
+
+\bibitem[6]{kojima2009organometal}
+Kojima, A., Teshima, K., Shirai, Y., \& Miyasaka, T. (2009).
+\newblock Organometal halide perovskites as visible-light sensitizers for
+  photovoltaic cells.
+\newblock {\em Journal of the American Chemical Society}, {\em 131\/}(17),
+  6050--6051.
+
+\bibitem[7]{lee2012efficient}
+Lee, M.~M., Teuscher, J., Miyasaka, T., Murakami, T.~N., \& Snaith, H.~J.
+  (2012).
+\newblock Efficient hybrid solar cells based on meso-superstructured
+  organometal halide perovskites.
+\newblock {\em Science}, {\em 338\/}(6107), 643--647.
+
+\bibitem[8]{noh2013chemical}
+Noh, J.~H., Im, S.~H., Heo, J.~H., Mandal, T.~N., \& Seok, S.~I. (2013).
+\newblock Chemical management for colorful, efficient, and stable
+  inorganic--organic hybrid nanostructured solar cells.
+\newblock {\em Nano letters}, {\em 13\/}(4), 1764--1769.
+
+\bibitem[9]{khoram2016growth}
 Khoram, P., Brittman, S., Dzik, W.~I., Reek, J.~N., \& Garnett, E.~C. (2016).
 \newblock Growth and characterization of pdms-stamped halide perovskite single
   microcrystals.
 \newblock {\em The Journal of Physical Chemistry C}, {\em 120\/}(12),
   6475--6481.
 
-\bibitem[6]{brittman2017controlling}
+\bibitem[10]{brittman2017controlling}
 Brittman, S., Oener, S.~Z., Guo, K., {\=A}boli{\c{n}}{\v{s}}, H., Koenderink,
   A.~F., \& Garnett, E.~C. (2017).
 \newblock Controlling crystallization to imprint nanophotonic structures into
   halide perovskites using soft lithography.
 \newblock {\em Journal of Materials Chemistry C}, {\em 5\/}(32), 8301--8307.
 
-\bibitem[7]{chen2018room}
+\bibitem[11]{chen2018room}
 Chen, J., Zhang, Q., Du, W., Mi, Y., Shang, Q., Shi, J., .~.~. et~al. (2018).
 \newblock Room temperature continuous-wave excited biexciton emission in
   cspbbr3 nanocrystals.
 \newblock {\em arXiv preprint arXiv:1804.09782}.
 
-\bibitem[8]{Jain2013}
+\bibitem[12]{Jain2013}
 Jain, A., Ong, S.~P., Hautier, G., Chen, W., Richards, W.~D., Dacek, S., .~.~.
   \& Persson, K.~a. (2013).
 \newblock {Commentary: The Materials Project: A materials genome approach to

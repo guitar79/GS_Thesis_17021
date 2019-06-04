@@ -6,10 +6,10 @@
 \begin{figure}[h!]
 	\begin{center}
 		\begin{tabular}{ccc}
-			\includegraphics[width=5cm]{optic} &   \includegraphics[width=5cm]{crystal}&
-			\includegraphics[width=5cm]{crystal_made}
+			\includegraphics[height=4cm]{optic} &   \includegraphics[height=4cm]{crystal}&
+			\includegraphics[height=4cm]{crystal_made}
 		\end{tabular}
-		\caption{The first picture shows the silicon wafer with no crystals. After the crystal successfully grew, it could be seen by the eyes(middle) and by optic microscopy(right)}	
+		\caption{(a) The picture shows the silicon wafer with no crystals. After the crystal successfully grew, it could be seen by the eyes,(b) and (c) by optic microscopy.}	
 		\label{fig:FIR221}
 	\end{center}
 \end{figure}
@@ -35,16 +35,16 @@ $\rm{CsPbBr_3}$의 XRD peak는 2θ = 14.919, 30.099, 47.957도에서 발견되�
 		\label{fig:FIR221}
 	\end{center}
 \end{figure}
-TRPL 그래프는 위의 그림과 같이 파란색의 그래프이다. t=28ns부근에서 최댓값을 확인 할 수 있었고, 그 시간 이후의 데이터를 시간에 따른 지수 함수(exponential function)들의 합으로 fitting 할 수 있는데, 그 식은 $\sum_{i}^{} {e}^{-t/{\tau}_{i}}$ 로 표현된다. $\rm{CsPbBr_3}$는 exciton과 biexciton의 recombination으로 나뉘기 때문에 두 개의 exponential function의 합으로 표현하였다. 
+TRPL 그래프는 위의 그림과 같이 파란색의 그래프이다. t=28 ns부근에서 최댓값을 확인 할 수 있었고, 그 시간 이후의 데이터를 시간에 따른 지수 함수(exponential function)들의 합으로 fitting 할 수 있는데, 그 식은 $\sum_{i}^{} {e}^{-t/{\tau}_{i}}$ 로 표현된다. $\rm{CsPbBr_3}$는 exciton과 biexciton의 recombination으로 나뉘기 때문에 두 개의 exponential function의 합으로 표현하였다. 
 
 그래프의 피팅을 위해 파이썬을 활용하였다. TRPL 데이터를 순서쌍으로 바꿔서 그래프를 그린 후, 파이썬에 내재된 함수인 curve fit을 이용하여 최소제곱법으로 가장 비슷한 함수를 찾아낸다.
 \begin{figure}[t]
 	\begin{center}
 		\begin{tabular}{cc}
-			\includegraphics[width=7cm]{ND0} &
-			\includegraphics[width=7cm]{ND1}
+			\includegraphics[height=4cm]{ND0} &
+			\includegraphics[height=4cm]{ND1}
 		\end{tabular}
-		\caption{The histogram shows the ratio between exciton recombination rate and biexcitonrate, differed by the point of laser. Left picture is when ND0 filter is used, and the right picture is when ND1 filter is used.The standard deviation of ratio is 0.432 and 0.483, respectively. }	
+		\caption{The histogram shows the ratio between exciton recombination rate and biexcitonrate, differed by the point of laser. (a) is when ND0 filter is used, and (b) is when ND1 filter is used. The standard deviation of ratio is 0.432 and 0.483, respectively. }	
 		\label{fig:FIR221}
 	\end{center}
 \end{figure}
@@ -63,4 +63,4 @@ ND0 필터를 사용했을 때 두 recombination rate 사이의 비율에 대한
 		\label{fig:FIR221}
 	\end{center}
 \end{figure}
-Figure 7과 8은 exciton / biexciton recombination rate의 비율이 아닌, 값 자체를 히스토그램으로 나타낸 것으로, 두 값 모두가 결정의 중심쪽으로 갈수록 증가하고 있음을 관찰할 수 있다. 
+Figure 7은 exciton / biexciton recombination rate의 비율이 아닌, 값 자체를 히스토그램으로 나타낸 것으로, 두 값 모두가 결정의 중심쪽으로 갈수록 증가하고 있음을 관찰할 수 있다. 

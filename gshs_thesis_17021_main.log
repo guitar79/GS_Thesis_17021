@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.10.25)  2 JUN 2019 22:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.25)  4 JUN 2019 16:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1141,6 +1141,331 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
+(c:/texlive/2018/texmf-dist/tex/latex/siunitx/siunitx.sty
+(c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2018/03/05 L3 programming layer (loader) 
+
+(c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2018/03/05 L3 programming layer (code)
+\c_max_int=\count163
+\l_tmpa_int=\count164
+\l_tmpb_int=\count165
+\g_tmpa_int=\count166
+\g_tmpb_int=\count167
+\g__intarray_font_int=\count168
+\g__prg_map_int=\count169
+\c_log_iow=\count170
+\l_iow_line_count_int=\count171
+\l__iow_line_target_int=\count172
+\l__iow_one_indent_int=\count173
+\l__iow_indent_int=\count174
+\c_zero_dim=\dimen279
+\c_max_dim=\dimen280
+\l_tmpa_dim=\dimen281
+\l_tmpb_dim=\dimen282
+\g_tmpa_dim=\dimen283
+\g_tmpb_dim=\dimen284
+\c_zero_skip=\skip99
+\c_max_skip=\skip100
+\l_tmpa_skip=\skip101
+\l_tmpb_skip=\skip102
+\g_tmpa_skip=\skip103
+\g_tmpb_skip=\skip104
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+\l_keys_choice_int=\count175
+\c__fp_leading_shift_int=\count176
+\c__fp_middle_shift_int=\count177
+\c__fp_trailing_shift_int=\count178
+\c__fp_big_leading_shift_int=\count179
+\c__fp_big_middle_shift_int=\count180
+\c__fp_big_trailing_shift_int=\count181
+\c__fp_Bigg_leading_shift_int=\count182
+\c__fp_Bigg_middle_shift_int=\count183
+\c__fp_Bigg_trailing_shift_int=\count184
+\c__fp_rand_size_int=\count185
+\c__fp_rand_four_int=\count186
+\c__fp_rand_eight_int=\count187
+\l__sort_length_int=\count188
+\l__sort_min_int=\count189
+\l__sort_top_int=\count190
+\l__sort_max_int=\count191
+\l__sort_true_max_int=\count192
+\l__sort_block_int=\count193
+\l__sort_begin_int=\count194
+\l__sort_end_int=\count195
+\l__sort_A_int=\count196
+\l__sort_B_int=\count197
+\l__sort_C_int=\count198
+\l__tl_build_start_index_int=\count199
+\l__tl_build_index_int=\count266
+\l__tl_analysis_normal_int=\count267
+\l__tl_analysis_index_int=\count268
+\l__tl_analysis_nesting_int=\count269
+\l__tl_analysis_type_int=\count270
+\l__regex_internal_a_int=\count271
+\l__regex_internal_b_int=\count272
+\l__regex_internal_c_int=\count273
+\l__regex_balance_int=\count274
+\l__regex_group_level_int=\count275
+\l__regex_mode_int=\count276
+\c__regex_cs_in_class_mode_int=\count277
+\c__regex_cs_mode_int=\count278
+\l__regex_catcodes_int=\count279
+\l__regex_default_catcodes_int=\count280
+\c__regex_catcode_D_int=\count281
+\c__regex_catcode_S_int=\count282
+\c__regex_catcode_L_int=\count283
+\c__regex_catcode_O_int=\count284
+\c__regex_catcode_A_int=\count285
+\c__regex_all_catcodes_int=\count286
+\l__regex_show_lines_int=\count287
+\l__regex_min_state_int=\count288
+\l__regex_max_state_int=\count289
+\l__regex_left_state_int=\count290
+\l__regex_right_state_int=\count291
+\l__regex_capturing_group_int=\count292
+\l__regex_min_pos_int=\count293
+\l__regex_max_pos_int=\count294
+\l__regex_curr_pos_int=\count295
+\l__regex_start_pos_int=\count296
+\l__regex_success_pos_int=\count297
+\l__regex_curr_char_int=\count298
+\l__regex_curr_catcode_int=\count299
+\l__regex_last_char_int=\count300
+\l__regex_case_changed_char_int=\count301
+\l__regex_curr_state_int=\count302
+\l__regex_step_int=\count303
+\l__regex_min_active_int=\count304
+\l__regex_max_active_int=\count305
+\l__regex_replacement_csnames_int=\count306
+\l__regex_match_count_int=\count307
+\l__regex_min_submatch_int=\count308
+\l__regex_submatch_int=\count309
+\l__regex_zeroth_submatch_int=\count310
+\g__regex_trace_regex_int=\count311
+\c_empty_box=\box72
+\l_tmpa_box=\box73
+\l_tmpb_box=\box74
+\g_tmpa_box=\box75
+\g_tmpb_box=\box76
+\l__box_top_dim=\dimen285
+\l__box_bottom_dim=\dimen286
+\l__box_left_dim=\dimen287
+\l__box_right_dim=\dimen288
+\l__box_top_new_dim=\dimen289
+\l__box_bottom_new_dim=\dimen290
+\l__box_left_new_dim=\dimen291
+\l__box_right_new_dim=\dimen292
+\l__box_internal_box=\box77
+\l__coffin_internal_box=\box78
+\l__coffin_internal_dim=\dimen293
+\l__coffin_offset_x_dim=\dimen294
+\l__coffin_offset_y_dim=\dimen295
+\l__coffin_x_dim=\dimen296
+\l__coffin_y_dim=\dimen297
+\l__coffin_x_prime_dim=\dimen298
+\l__coffin_y_prime_dim=\dimen299
+\c_empty_coffin=\box79
+\l__coffin_aligned_coffin=\box80
+\l__coffin_aligned_internal_coffin=\box81
+\l_tmpa_coffin=\box82
+\l_tmpb_coffin=\box83
+\l__coffin_display_coffin=\box84
+\l__coffin_display_coord_coffin=\box85
+\l__coffin_display_pole_coffin=\box86
+\l__coffin_display_offset_dim=\dimen300
+\l__coffin_display_x_dim=\dimen301
+\l__coffin_display_y_dim=\dimen302
+\l__coffin_bounding_shift_dim=\dimen303
+\l__coffin_left_corner_dim=\dimen304
+\l__coffin_right_corner_dim=\dimen305
+\l__coffin_bottom_corner_dim=\dimen306
+\l__coffin_top_corner_dim=\dimen307
+\l__coffin_scaled_total_height_dim=\dimen308
+\l__coffin_scaled_width_dim=\dimen309
+)
+(c:/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count312
+))
+(c:/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2018/02/21 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count313
+\g__xparse_grabber_int=\count314
+\l__xparse_m_args_int=\count315
+\l__xparse_mandatory_args_int=\count316
+\l__xparse_v_nesting_int=\count317
+)
+Package: siunitx 2018-03-20 v2.7m A comprehensive (SI) units package
+
+(c:/texlive/2018/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2018/02/21 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box87
+\l__siunitx_tmp_dim=\dimen310
+\l__siunitx_tmp_int=\count318
+\l__siunitx_number_mantissa_length_int=\count319
+\l__siunitx_number_uncert_length_int=\count320
+\l__siunitx_round_int=\count321
+\l__siunitx_process_decimal_int=\count322
+\l__siunitx_process_uncertainty_int=\count323
+\l__siunitx_process_fixed_int=\count324
+\l__siunitx_process_integer_min_int=\count325
+\l__siunitx_process_precision_int=\count326
+\l__siunitx_group_min_int=\count327
+\l__siunitx_angle_marker_box=\box88
+\l__siunitx_angle_unit_box=\box89
+\l__siunitx_angle_marker_dim=\dimen311
+\l__siunitx_angle_unit_dim=\dimen312
+\l__siunitx_unit_int=\count328
+\l__siunitx_unit_denominator_int=\count329
+\l__siunitx_unit_numerator_int=\count330
+\l__siunitx_unit_prefix_int=\count331
+\l__siunitx_unit_prefix_base_int=\count332
+\l__siunitx_unit_prefix_gram_int=\count333
+\l__siunitx_number_product_int=\count334
+\c__siunitx_one_fill_skip=\skip105
+\l__siunitx_table_unit_align_skip=\skip106
+\l__siunitx_table_exponent_dim=\dimen313
+\l__siunitx_table_integer_dim=\dimen314
+\l__siunitx_table_mantissa_dim=\dimen315
+\l__siunitx_table_marker_dim=\dimen316
+\l__siunitx_table_result_dim=\dimen317
+\l__siunitx_table_uncert_dim=\dimen318
+\l__siunitx_table_fill_pre_dim=\dimen319
+\l__siunitx_table_fill_post_dim=\dimen320
+\l__siunitx_table_fill_mid_dim=\dimen321
+\l__siunitx_table_pre_box=\box90
+\l__siunitx_table_post_box=\box91
+\l__siunitx_table_mantissa_box=\box92
+\l__siunitx_table_result_box=\box93
+\l__siunitx_table_number_align_skip=\skip107
+\l__siunitx_table_text_align_skip=\skip108
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7244.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPostPower with sig. 'mm' on line 7247.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7250.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrePower with sig. 'mm' on line 7253.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIQualifier with sig. 'mm' on line 7256.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7259.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7262.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7277.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \num with sig. 'om' on line 7286.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7295.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numrange with sig. 'omm' on line 7304.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7316.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIrange with sig. 'ommm' on line 7328.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SI with sig. 'omom' on line 7340.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \sisetup with sig. 'm' on line 7343.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \tablenum with sig. 'om' on line 7358.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \si with sig. 'om' on line 7370.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numInBookmark with sig. 'om' on line 7417.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numrangeInBookmark with sig. 'omm' on line 7419.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIInBookmark with sig. 'omom' on line 7421.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIlistInBookmark with sig. 'omm' on line 7423.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIrangeInBookmark with sig. 'ommm' on line 7425.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \siInBookmark with sig. 'om' on line 7426.
+.................................................
+\g__file_internal_ior=\read3
+
+(c:/texlive/2018/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
+))
 
 LaTeX Warning: Unused global option(s):
     [pdftex].
@@ -1165,34 +1490,34 @@ LaTeX Warning: Label `fig:FIR221' multiply defined.
 ) (./sub/conclusion.aux) (./sub/footer.aux))
 \openout1 = `gshs_thesis_17021_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 21.
 LaTeX Font Info:    Try loading font information for LUC+nanummj on input line 
-20.
+21.
 
 (c:/texlive/2018/texmf-dist/tex/latex/nanumtype1/lucnanummj.fd
 File: lucnanummj.fd 2013/02/12 v0.1 Nanum Myeongjo font definitions
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 20.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 21.
 
 (c:/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 20.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 21.
 
 (c:/texlive/2018/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
@@ -1233,16 +1558,16 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 
 (c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count163
-\scratchdimen=\dimen279
-\scratchbox=\box72
-\nofMPsegments=\count164
-\nofMParguments=\count165
+\scratchcounter=\count335
+\scratchdimen=\dimen322
+\scratchbox=\box94
+\nofMPsegments=\count336
+\nofMParguments=\count337
 \everyMPshowfont=\toks52
-\MPscratchCnt=\count166
-\MPscratchDim=\dimen280
-\MPnumerator=\count167
-\makeMPintoPDFobject=\count168
+\MPscratchCnt=\count338
+\MPscratchDim=\dimen323
+\MPnumerator=\count339
+\makeMPintoPDFobject=\count340
 \everyMPtoPDFconversion=\toks53
 ) (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1277,69 +1602,78 @@ Package caption Info: End \AtBeginDocument code.
 ABD: EveryShipout initializing macros
 \symgns@font=\mathgroup8
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/ptm/m/n --> TS1/ptm/bx/n on input line 20.
-Package gensymb Info: Math companion symbols declared on input line 20.
-LaTeX Info: Redefining \degree on input line 20.
-LaTeX Info: Redefining \celsius on input line 20.
+(Font)                  TS1/ptm/m/n --> TS1/ptm/bx/n on input line 21.
+Package gensymb Info: Math companion symbols declared on input line 21.
+LaTeX Info: Redefining \degree on input line 21.
+LaTeX Info: Redefining \celsius on input line 21.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 20.
-LaTeX Info: Redefining \ohm on input line 20.
-Package gensymb Info: Using \textohm for \ohm on input line 20.
-Package gensymb Info: Using \textmu for \micro on input line 20.
+erthousand on input line 21.
+LaTeX Info: Redefining \ohm on input line 21.
+Package gensymb Info: Using \textohm for \ohm on input line 21.
+Package gensymb Info: Using \textmu for \micro on input line 21.
 
 Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.16}).
 
-\c@lstlisting=\count169
-\openout2 = `sub/abstract.aux'.
+\c@lstlisting=\count341
 
-(./sub/abstract.tex
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 1.
+(c:/texlive/2018/texmf-dist/tex/latex/translator/translator-basic-dictionary-En
+glish.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(c:/texlive/2018/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
+)
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 21
+.
 
- (c:/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+(c:/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 1.
-
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 21
+.
 
 (c:/texlive/2018/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 1.
-
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 21
+.
 
 (c:/texlive/2018/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 1.
-
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 21
+.
 
 (c:/texlive/2018/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 1.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 21.
 
 (c:/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 21.
+
+(c:/texlive/2018/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+\openout2 = `sub/abstract.aux'.
+
+ (./sub/abstract.tex
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 1.
-
-(c:/texlive/2018/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
@@ -1386,11 +1720,23 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <21> not available
 <images/perovskite_structure.jpg, id=86, 284.06125pt x 217.81375pt>
 File: images/perovskite_structure.jpg Graphic file (type jpg)
 <use images/perovskite_structure.jpg>
-Package pdftex.def Info: images/perovskite_structure.jpg  used on input line 11
+Package pdftex.def Info: images/perovskite_structure.jpg  used on input line 13
 .
 (pdftex.def)             Requested size: 199.16928pt x 152.72449pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 13.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 15.
+Missing character: There is no ^^R in font uwmj22!
+Missing character: There is no ^^R in font uwmj22!
+
+Overfull \hbox (10.28102pt too wide) in paragraph at lines 19--29
+\LUC/nanummj/m/n/10.95/b2 ” \LUC/nanummj/m/n/10.95/b3 p \LUC/nanummj/m/n/10.95/
+c0 ¬\LUC/nanummj/m/n/10.95/c6 ©\LUC/nanummj/m/n/10.95/b4 ^^\\LUC/nanummj/m/n/10
+.95/b2 ä\T1/ptm/m/n/10.95 . Kho-ram(2016)\LUC/nanummj/m/n/10.95/c7 @ \T1/ptm/m/
+n/10.95 PDMS stamp-ing\LUC/nanummj/m/n/10.95/c7 <\LUC/nanummj/m/n/10.95/b8 \ \L
+UC/nanummj/m/n/10.95/b9 Ì\LUC/nanummj/m/n/10.95/b4 à $[]$\LUC/nanummj/m/n/10.95
+/c7 X \LUC/nanummj/m/n/10.95/ac p\LUC/nanummj/m/n/10.95/ce `\LUC/nanummj/m/n/10
+.95/ae 0\LUC/nanummj/m/n/10.95/ac ^^@ \T1/ptm/m/n/10.95 AFM(Atomic
+ []
 
 [1
 
@@ -1403,96 +1749,96 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
  (./sub/methodology.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <16> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 3.
-<images/sonic.jpg, id=100, 1445.4pt x 1445.4pt>
+<images/sonic.jpg, id=102, 722.7pt x 722.7pt>
 File: images/sonic.jpg Graphic file (type jpg)
 <use images/sonic.jpg>
-Package pdftex.def Info: images/sonic.jpg  used on input line 8.
+Package pdftex.def Info: images/sonic.jpg  used on input line 9.
 (pdftex.def)             Requested size: 113.81102pt x 113.80379pt.
-<images/spin_coater.jpg, id=101, 1445.4pt x 1445.4pt>
+<images/spin_coater.jpg, id=103, 722.7pt x 722.7pt>
 File: images/spin_coater.jpg Graphic file (type jpg)
 <use images/spin_coater.jpg>
-Package pdftex.def Info: images/spin_coater.jpg  used on input line 8.
+Package pdftex.def Info: images/spin_coater.jpg  used on input line 9.
 (pdftex.def)             Requested size: 113.81102pt x 113.80379pt.
-<images/pdms_stamping.jpg, id=102, 1445.4pt x 1445.4pt>
+<images/pdms_stamping.jpg, id=104, 722.7pt x 722.7pt>
 File: images/pdms_stamping.jpg Graphic file (type jpg)
 <use images/pdms_stamping.jpg>
-Package pdftex.def Info: images/pdms_stamping.jpg  used on input line 9.
+Package pdftex.def Info: images/pdms_stamping.jpg  used on input line 10.
 (pdftex.def)             Requested size: 113.81102pt x 113.80379pt.
-)
-[4
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+) [4
 
 
- <./images/sonic.jpg> <./images/spin_coater.jpg> <./images/pdms_stamping.jpg>]
+ <./images/sonic.jpg> <./images/spin_coater.jpg> <./images/pdms_stamping.jpg>] 
+[5]
 \openout2 = `sub/result.aux'.
 
  (./sub/result.tex
-<images/optic.jpg, id=108, 668.7384pt x 501.072pt>
+<images/optic.jpg, id=113, 668.7384pt x 501.072pt>
 File: images/optic.jpg Graphic file (type jpg)
 <use images/optic.jpg>
 Package pdftex.def Info: images/optic.jpg  used on input line 9.
-(pdftex.def)             Requested size: 142.26378pt x 106.58916pt.
-<images/crystal.jpg, id=109, 163.10938pt x 140.525pt>
+(pdftex.def)             Requested size: 151.88821pt x 113.81102pt.
+<images/crystal.jpg, id=114, 163.10938pt x 140.525pt>
 File: images/crystal.jpg Graphic file (type jpg)
 <use images/crystal.jpg>
 Package pdftex.def Info: images/crystal.jpg  used on input line 9.
-(pdftex.def)             Requested size: 142.26378pt x 122.57524pt.
-<images/crystal_made.jpg, id=110, 183.68625pt x 151.56625pt>
+(pdftex.def)             Requested size: 132.10292pt x 113.81102pt.
+<images/crystal_made.jpg, id=115, 91.84312pt x 75.78313pt>
 File: images/crystal_made.jpg Graphic file (type jpg)
 <use images/crystal_made.jpg>
 Package pdftex.def Info: images/crystal_made.jpg  used on input line 10.
-(pdftex.def)             Requested size: 142.26378pt x 117.39555pt.
+(pdftex.def)             Requested size: 137.93248pt x 113.81102pt.
 
-Overfull \hbox (50.22638pt too wide) in paragraph at lines 8--12
+Overfull \hbox (45.35866pt too wide) in paragraph at lines 8--12
  [] 
  []
 
-<images/XRD.jpg, id=111, 341.275pt x 228.855pt>
+<images/XRD.jpg, id=116, 341.275pt x 228.855pt>
 File: images/XRD.jpg Graphic file (type jpg)
 <use images/XRD.jpg>
 Package pdftex.def Info: images/XRD.jpg  used on input line 20.
 (pdftex.def)             Requested size: 284.52756pt x 190.81212pt.
-[5
-
-
- <./images/optic.jpg> <./images/crystal.JPG> <./images/crystal_made.jpg> <./ima
-ges/XRD.jpg>]
-<images/TRPL_graph.jpg, id=116, 411.5375pt x 293.59688pt>
+<images/TRPL_graph.jpg, id=117, 411.5375pt x 293.59688pt>
 File: images/TRPL_graph.jpg Graphic file (type jpg)
 <use images/TRPL_graph.jpg>
 Package pdftex.def Info: images/TRPL_graph.jpg  used on input line 32.
 (pdftex.def)             Requested size: 398.33858pt x 284.18382pt.
-<images/ND0.jpg, id=117, 514.92375pt x 329.23pt>
+[6
+
+
+ <./images/optic.jpg> <./images/crystal.JPG> <./images/crystal_made.jpg> <./ima
+ges/XRD.jpg>]
+<images/ND0.jpg, id=123, 257.46187pt x 156.585pt>
 File: images/ND0.jpg Graphic file (type jpg)
 <use images/ND0.jpg>
 Package pdftex.def Info: images/ND0.jpg  used on input line 44.
-(pdftex.def)             Requested size: 199.16928pt x 127.34421pt.
-<images/ND1.jpg, id=118, 482.80376pt x 313.17pt>
+(pdftex.def)             Requested size: 187.1363pt x 113.81102pt.
+<images/ND1.jpg, id=124, 241.90375pt x 157.58875pt>
 File: images/ND1.jpg Graphic file (type jpg)
 <use images/ND1.jpg>
 Package pdftex.def Info: images/ND1.jpg  used on input line 45.
-(pdftex.def)             Requested size: 199.16928pt x 129.18898pt.
-
-Overfull \hbox (9.7736pt too wide) in paragraph at lines 43--47
- [] 
- []
-
-[6 <./images/TRPL_graph.JPG>] [7 <./images/ND0.jpg> <./images/ND1.jpg>]
-<images/ND0TRPL1.jpg, id=131, 819.06pt x 651.43375pt>
+(pdftex.def)             Requested size: 174.70578pt x 113.81102pt.
+ [7 <./images/TRPL_graph.JPG>] [8 <./images/ND0.jpg> <./images/ND1.jpg>]
+<images/ND0TRPL1.jpg, id=135, 819.06pt x 651.43375pt>
 File: images/ND0TRPL1.jpg Graphic file (type jpg)
 <use images/ND0TRPL1.jpg>
 Package pdftex.def Info: images/ND0TRPL1.jpg  used on input line 57.
 (pdftex.def)             Requested size: 199.16928pt x 158.40488pt.
-<images/ND0TRPL2.jpg, id=132, 801.99625pt x 659.46375pt>
+<images/ND0TRPL2.jpg, id=136, 801.99625pt x 659.46375pt>
 File: images/ND0TRPL2.jpg Graphic file (type jpg)
 <use images/ND0TRPL2.jpg>
 Package pdftex.def Info: images/ND0TRPL2.jpg  used on input line 58.
 (pdftex.def)             Requested size: 199.16928pt x 163.7687pt.
-<images/ND1TRPL1.jpg, id=133, 777.90625pt x 647.41875pt>
+<images/ND1TRPL1.jpg, id=137, 777.90625pt x 647.41875pt>
 File: images/ND1TRPL1.jpg Graphic file (type jpg)
 <use images/ND1TRPL1.jpg>
 Package pdftex.def Info: images/ND1TRPL1.jpg  used on input line 59.
 (pdftex.def)             Requested size: 199.16928pt x 165.75641pt.
-<images/ND1TRPL2.jpg, id=134, 839.135pt x 681.54625pt>
+<images/ND1TRPL2.jpg, id=138, 839.135pt x 681.54625pt>
 File: images/ND1TRPL2.jpg Graphic file (type jpg)
 <use images/ND1TRPL2.jpg>
 Package pdftex.def Info: images/ND1TRPL2.jpg  used on input line 60.
@@ -1502,23 +1848,25 @@ Overfull \hbox (9.7736pt too wide) in paragraph at lines 56--62
  [] 
  []
 
-) [8
+) [9
 
  <./images/ND0TRPL1.jpg> <./images/ND0TRPL2.jpg> <./images/ND1TRPL1.jpg> <./ima
 ges/ND1TRPL2.jpg>]
 \openout2 = `sub/conclusion.aux'.
 
- (./sub/conclusion.tex) [9
+ (./sub/conclusion.tex) [10
 
-
-] (./gshs_thesis_17021_main.bbl) [10
 
 ]
+(./gshs_thesis_17021_main.bbl [11
+
+]) [12]
 \openout2 = `sub/footer.aux'.
 
- (./sub/footer.tex) (./gshs_thesis_17021_main.aux (./sub/abstract.aux)
-(./sub/introduction.aux) (./sub/methodology.aux) (./sub/result.aux)
-(./sub/conclusion.aux) (./sub/footer.aux))
+ (./sub/footer.tex)
+(./gshs_thesis_17021_main.aux (./sub/abstract.aux) (./sub/introduction.aux)
+(./sub/methodology.aux) (./sub/result.aux) (./sub/conclusion.aux)
+(./sub/footer.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1527,82 +1875,83 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 30952 strings out of 492649
- 732178 string characters out of 6133383
- 923249 words of memory out of 5000000
- 34036 multiletter control sequences out of 15000+600000
- 152054 words of font info for 325 fonts, out of 8000000 for 9000
+ 41494 strings out of 492649
+ 970155 string characters out of 6133384
+ 1114351 words of memory out of 5000000
+ 44528 multiletter control sequences out of 15000+600000
+ 684988 words of font info for 359 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,18n,138p,1477b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,18n,138p,10407b,744s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2018/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2018/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1
-/public/amsfonts/symbols/msam10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/pub
-lic/nanumtype1/nanummjbac.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/na
-numtype1/nanummjbad.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtyp
-e1/nanummjbae.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nan
-ummjbb4.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb
-8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb9.pfb>
-<c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbc.pfb><c:/te
-xlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbd.pfb><c:/texlive/
-2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbe.pfb><c:/texlive/2018/t
-exmf-dist/fonts/type1/public/nanumtype1/nanummjbc1.pfb><c:/texlive/2018/texmf-d
-ist/fonts/type1/public/nanumtype1/nanummjbc2.pfb><c:/texlive/2018/texmf-dist/fo
-nts/type1/public/nanumtype1/nanummjbc6.pfb><c:/texlive/2018/texmf-dist/fonts/ty
-pe1/public/nanumtype1/nanummjbc7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/pu
-blic/nanumtype1/nanummjbc8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/n
-anumtype1/nanummjbc9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumty
-pe1/nanummjbcd.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/na
-nummjbd5.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjm
-ac.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb
-><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb><c:/t
-exlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmaf.pfb><c:/texlive
-/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb0.pfb><c:/texlive/2018/
-texmf-dist/fonts/type1/public/nanumtype1/nanummjmb1.pfb><c:/texlive/2018/texmf-
-dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb><c:/texlive/2018/texmf-dist/f
-onts/type1/public/nanumtype1/nanummjmb3.pfb><c:/texlive/2018/texmf-dist/fonts/t
-ype1/public/nanumtype1/nanummjmb4.pfb><c:/texlive/2018/texmf-dist/fonts/type1/p
-ublic/nanumtype1/nanummjmb5.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/
-nanumtype1/nanummjmb6.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumt
-ype1/nanummjmb7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/n
-anummjmb8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummj
-mb9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pf
-b><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.pfb><c:/
-texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbc.pfb><c:/texliv
-e/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbd.pfb><c:/texlive/2018
-/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbe.pfb><c:/texlive/2018/texmf
--dist/fonts/type1/public/nanumtype1/nanummjmc0.pfb><c:/texlive/2018/texmf-dist/
-fonts/type1/public/nanumtype1/nanummjmc1.pfb><c:/texlive/2018/texmf-dist/fonts/
-type1/public/nanumtype1/nanummjmc2.pfb><c:/texlive/2018/texmf-dist/fonts/type1/
-public/nanumtype1/nanummjmc3.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public
-/nanumtype1/nanummjmc4.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanum
-type1/nanummjmc5.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/
-nanummjmc6.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanumm
-jmc7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc8.p
-fb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc9.pfb><c:
-/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmca.pfb><c:/texli
-ve/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcc.pfb><c:/texlive/201
-8/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcd.pfb><c:/texlive/2018/texm
-f-dist/fonts/type1/public/nanumtype1/nanummjmce.pfb><c:/texlive/2018/texmf-dist
-/fonts/type1/public/nanumtype1/nanummjmcf.pfb><c:/texlive/2018/texmf-dist/fonts
-/type1/public/nanumtype1/nanummjmd0.pfb><c:/texlive/2018/texmf-dist/fonts/type1
-/public/nanumtype1/nanummjmd1.pfb><c:/texlive/2018/texmf-dist/fonts/type1/publi
-c/nanumtype1/nanummjmd2.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanu
-mtype1/nanummjmd3.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1
-/nanummjmd4.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanum
-mjmd5.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.
-pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb><c
-:/texlive/2018/texmf-dist/fonts/type1/uhc/umj/umj01.pfb><c:/texlive/2018/texmf-
-dist/fonts/type1/uhc/umj/umj20.pfb><c:/texlive/2018/texmf-dist/fonts/type1/uhc/
-umj/umj34.pfb><c:/texlive/2018/texmf-dist/fonts/type1/uhc/umj/umj36.pfb><c:/tex
-live/2018/texmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/2018/texmf-dis
-t/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/t
-imes/utmb8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c
-:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on gshs_thesis_17021_main.pdf (17 pages, 4378184 bytes).
+nts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/am
+sfonts/symbols/msam10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumt
+ype1/nanummjbac.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/n
+anummjbad.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummj
+bae.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb4.pf
+b><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb8.pfb><c:/
+texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb9.pfb><c:/texliv
+e/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbc.pfb><c:/texlive/2018
+/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbd.pfb><c:/texlive/2018/texmf
+-dist/fonts/type1/public/nanumtype1/nanummjbbe.pfb><c:/texlive/2018/texmf-dist/
+fonts/type1/public/nanumtype1/nanummjbc1.pfb><c:/texlive/2018/texmf-dist/fonts/
+type1/public/nanumtype1/nanummjbc2.pfb><c:/texlive/2018/texmf-dist/fonts/type1/
+public/nanumtype1/nanummjbc6.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public
+/nanumtype1/nanummjbc7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanum
+type1/nanummjbc8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/
+nanummjbc9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanumm
+jbcd.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd5.p
+fb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmac.pfb><c:
+/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb><c:/texli
+ve/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb><c:/texlive/201
+8/texmf-dist/fonts/type1/public/nanumtype1/nanummjmaf.pfb><c:/texlive/2018/texm
+f-dist/fonts/type1/public/nanumtype1/nanummjmb0.pfb><c:/texlive/2018/texmf-dist
+/fonts/type1/public/nanumtype1/nanummjmb1.pfb><c:/texlive/2018/texmf-dist/fonts
+/type1/public/nanumtype1/nanummjmb2.pfb><c:/texlive/2018/texmf-dist/fonts/type1
+/public/nanumtype1/nanummjmb3.pfb><c:/texlive/2018/texmf-dist/fonts/type1/publi
+c/nanumtype1/nanummjmb4.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanu
+mtype1/nanummjmb5.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1
+/nanummjmb6.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanum
+mjmb7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.
+pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb><c
+:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb><c:/texl
+ive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.pfb><c:/texlive/20
+18/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbc.pfb><c:/texlive/2018/tex
+mf-dist/fonts/type1/public/nanumtype1/nanummjmbd.pfb><c:/texlive/2018/texmf-dis
+t/fonts/type1/public/nanumtype1/nanummjmbe.pfb><c:/texlive/2018/texmf-dist/font
+s/type1/public/nanumtype1/nanummjmc0.pfb><c:/texlive/2018/texmf-dist/fonts/type
+1/public/nanumtype1/nanummjmc1.pfb><c:/texlive/2018/texmf-dist/fonts/type1/publ
+ic/nanumtype1/nanummjmc2.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nan
+umtype1/nanummjmc3.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype
+1/nanummjmc4.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanu
+mmjmc5.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc6
+.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc7.pfb><
+c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc8.pfb><c:/tex
+live/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc9.pfb><c:/texlive/2
+018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmca.pfb><c:/texlive/2018/te
+xmf-dist/fonts/type1/public/nanumtype1/nanummjmcc.pfb><c:/texlive/2018/texmf-di
+st/fonts/type1/public/nanumtype1/nanummjmcd.pfb><c:/texlive/2018/texmf-dist/fon
+ts/type1/public/nanumtype1/nanummjmce.pfb><c:/texlive/2018/texmf-dist/fonts/typ
+e1/public/nanumtype1/nanummjmcf.pfb><c:/texlive/2018/texmf-dist/fonts/type1/pub
+lic/nanumtype1/nanummjmd0.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/na
+numtype1/nanummjmd1.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtyp
+e1/nanummjmd2.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nan
+ummjmd3.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd
+4.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pfb>
+<c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb><c:/te
+xlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb><c:/texlive/
+2018/texmf-dist/fonts/type1/uhc/umj/umj01.pfb><c:/texlive/2018/texmf-dist/fonts
+/type1/uhc/umj/umj20.pfb><c:/texlive/2018/texmf-dist/fonts/type1/uhc/umj/umj34.
+pfb><c:/texlive/2018/texmf-dist/fonts/type1/uhc/umj/umj36.pfb><c:/texlive/2018/
+texmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/2018/texmf-dist/fonts/ty
+pe1/urw/symbol/usyr.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmb8
+a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/
+2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on gshs_thesis_17021_main.pdf (19 pages, 4838315 bytes).
 PDF statistics:
- 364 PDF objects out of 1000 (max. 8388607)
- 256 compressed objects within 3 object streams
+ 375 PDF objects out of 1000 (max. 8388607)
+ 264 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  88 words of extra memory for PDF output out of 10000 (max. 10000000)
 
