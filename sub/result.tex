@@ -48,6 +48,28 @@ TRPL 그래프는 위의 그림과 같이 파란색의 그래프이다. t=28 ns�
 		\label{fig:FIR221}
 	\end{center}
 \end{figure}
+
+\begin{figure}[t]
+	\begin{center}
+		\begin{tikzpicture}
+		\begin{axis} [
+		width=1.00\textwidth,%
+		height = 8cm,%
+		xtick = data,%
+		symbolic x coords={pt1, pt2, pt3, pt4, pt5, pt6, pt7, pt8},%
+		ylabel= {ratioChlorophyll-a concentration ( $\rm mg~m^{-3}$)},%
+		ymin=0,ystep=0.5,ymax=2.0,%
+		scaled y ticks = false,%
+		ymajorgrids = true,
+		legend style={at={(0.02,10)}},legend pos=north west]%
+		\addplot table [x=Month, y=meanLAC_2003] {./data/mon_over00_year.csv}; \addlegendentry {2003 LAC}%
+		\end{axis}
+		\end{tikzpicture}
+		\caption{The histogram shows the ratio between exciton recombination rate and biexcitonrate, differed by the point of laser. (a) is when ND0 filter is used, and (b) is when ND1 filter is used. The standard deviation of ratio is 0.432 and 0.483, respectively. }	
+		\label{fig:FIR221-1}
+	\end{center}
+\end{figure}
+
  만들어진 결정이 $\rm{CsPbBr_3}$ 임을 확인하기 위해서 exciton과 biexciton의 recombination rate에 대한 비율을 계산하였다. 
 ND0 필터를 사용했을 때 두 recombination rate 사이의 비율에 대한 평균값은 3.43 이었고 ND1필터를 사용 했을 때는 3.30이었다.
 \clearpage
