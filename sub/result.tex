@@ -9,6 +9,11 @@
 			\includegraphics[height=4cm]{optic} &   \includegraphics[height=4cm]{crystal}&
 			\includegraphics[height=4cm]{crystal_made}
 		\end{tabular}
+	\begin{tikzpicture} [remember picture,overlay]
+	\node[text=white] at (-6.7, 3.8) {(a)};
+	\node at (-0.9, 3.8) {(b)};
+	\node[text=white] at (4.0, 3.8) {(c)};
+	\end{tikzpicture}
 		\caption{(a) The picture shows the silicon wafer with no crystals. After the crystal successfully grew, it could be seen by the eyes,(b) and (c) by optic microscopy.}	
 		\label{fig:FIR221}
 	\end{center}
@@ -57,7 +62,7 @@ TRPL 그래프는 위의 그림과 같이 파란색의 그래프이다. t=28 ns�
 		width=0.50\textwidth,%
 		height = 6cm,%
 		ybar,%
-		title={NO0 filter},%
+		title={ND0 filter},%
 		xtick = data,%
 		symbolic x coords={pt1, pt2, pt3, pt4, pt5, pt6, pt7, pt8},%
 		ylabel= {ratio},%
@@ -75,15 +80,15 @@ TRPL 그래프는 위의 그림과 같이 파란색의 그래프이다. t=28 ns�
 		width=0.50\textwidth,%
 		height = 6cm,%
 		ybar,%
-		title={NO1 filter},%
+		title={ND1 filter},%
 		xtick = data,%
-		symbolic x coords={pt1, pt2, pt3, pt4, pt5, pt6, pt7, pt8, pt9, pt10, pt11, pt12, pt13},%
+		symbolic x coords={pt1, pt2, pt3, pt4, pt5, pt6, pt7, pt8, pt9, pt10, pt11},%
 		ylabel= {ratio},%
 		ymin=0,ystep=0.5,ymax=10.0,%
 		scaled y ticks = false,%
 		ymajorgrids = true,
 		legend style={at={(0.02,10)}},legend pos=north west]%
-		\addplot table [x=pt, y=data] {./pt_data/ratio_nd1.csv}; %\addlegendentry {2003 LAC}%
+		\addplot table [x=pt, y=data] {./pt_data/ratio_nd1_2.csv}; %\addlegendentry {2003 LAC}%
 		\end{axis}
 		\node at (-0.2, 5.0) {(b)};
 		\end{tikzpicture}	

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.10.25)  8 JUN 2019 11:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.25)  8 JUN 2019 13:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1740,17 +1740,17 @@ Missing character: There is no ^^R in font uwmj22!
  (./sub/methodology.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <16> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 3.
-<images/sonic.jpg, id=102, 722.7pt x 722.7pt>
+<images/sonic.jpg, id=102, 1445.4pt x 1445.4pt>
 File: images/sonic.jpg Graphic file (type jpg)
 <use images/sonic.jpg>
 Package pdftex.def Info: images/sonic.jpg  used on input line 9.
 (pdftex.def)             Requested size: 113.81102pt x 113.80379pt.
-<images/spin_coater.jpg, id=103, 722.7pt x 722.7pt>
+<images/spin_coater.jpg, id=103, 1445.4pt x 1445.4pt>
 File: images/spin_coater.jpg Graphic file (type jpg)
 <use images/spin_coater.jpg>
 Package pdftex.def Info: images/spin_coater.jpg  used on input line 9.
 (pdftex.def)             Requested size: 113.81102pt x 113.80379pt.
-<images/pdms_stamping.jpg, id=104, 722.7pt x 722.7pt>
+<images/pdms_stamping.jpg, id=104, 1445.4pt x 1445.4pt>
 File: images/pdms_stamping.jpg Graphic file (type jpg)
 <use images/pdms_stamping.jpg>
 Package pdftex.def Info: images/pdms_stamping.jpg  used on input line 10.
@@ -1773,30 +1773,30 @@ File: images/optic.jpg Graphic file (type jpg)
 <use images/optic.jpg>
 Package pdftex.def Info: images/optic.jpg  used on input line 9.
 (pdftex.def)             Requested size: 151.88821pt x 113.81102pt.
-<images/crystal.jpg, id=114, 163.10938pt x 140.525pt>
+<images/crystal.jpg, id=114, 195.73125pt x 175.65625pt>
 File: images/crystal.jpg Graphic file (type jpg)
 <use images/crystal.jpg>
 Package pdftex.def Info: images/crystal.jpg  used on input line 9.
-(pdftex.def)             Requested size: 132.10292pt x 113.81102pt.
-<images/crystal_made.jpg, id=115, 91.84312pt x 75.78313pt>
+(pdftex.def)             Requested size: 126.8206pt x 113.81102pt.
+<images/crystal_made.jpg, id=115, 250.9375pt x 198.7425pt>
 File: images/crystal_made.jpg Graphic file (type jpg)
 <use images/crystal_made.jpg>
 Package pdftex.def Info: images/crystal_made.jpg  used on input line 10.
-(pdftex.def)             Requested size: 137.93248pt x 113.81102pt.
+(pdftex.def)             Requested size: 143.70592pt x 113.81102pt.
 
-Overfull \hbox (45.35866pt too wide) in paragraph at lines 8--12
+Overfull \hbox (45.84978pt too wide) in paragraph at lines 8--17
  [] 
  []
 
-<images/XRD.jpg, id=116, 341.275pt x 228.855pt>
+<images/XRD.jpg, id=116, 484.30937pt x 309.65688pt>
 File: images/XRD.jpg Graphic file (type jpg)
 <use images/XRD.jpg>
-Package pdftex.def Info: images/XRD.jpg  used on input line 20.
-(pdftex.def)             Requested size: 284.52756pt x 190.81212pt.
+Package pdftex.def Info: images/XRD.jpg  used on input line 25.
+(pdftex.def)             Requested size: 284.52756pt x 181.93051pt.
 <images/TRPL_graph.jpg, id=117, 411.5375pt x 293.59688pt>
 File: images/TRPL_graph.jpg Graphic file (type jpg)
 <use images/TRPL_graph.jpg>
-Package pdftex.def Info: images/TRPL_graph.jpg  used on input line 32.
+Package pdftex.def Info: images/TRPL_graph.jpg  used on input line 37.
 (pdftex.def)             Requested size: 398.33858pt x 284.18382pt.
 [6
 
@@ -1806,46 +1806,239 @@ ges/XRD.jpg>]
 <images/ND0.jpg, id=123, 257.46187pt x 156.585pt>
 File: images/ND0.jpg Graphic file (type jpg)
 <use images/ND0.jpg>
-Package pdftex.def Info: images/ND0.jpg  used on input line 44.
+Package pdftex.def Info: images/ND0.jpg  used on input line 49.
 (pdftex.def)             Requested size: 187.1363pt x 113.81102pt.
 <images/ND1.jpg, id=124, 241.90375pt x 157.58875pt>
 File: images/ND1.jpg Graphic file (type jpg)
 <use images/ND1.jpg>
-Package pdftex.def Info: images/ND1.jpg  used on input line 45.
+Package pdftex.def Info: images/ND1.jpg  used on input line 50.
 (pdftex.def)             Requested size: 174.70578pt x 113.81102pt.
-Package pgfplots info on input line 67: Using 'lua backend=false' for axis: x c
+Package pgfplots info on input line 72: Using 'lua backend=false' for axis: x c
 oord trafo unsupported.
 PGFPlots: reading {./pt_data/ratio_nd0.csv}
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 69.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 74.
  (c:/texlive/2018/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Package pgfplots info on input line 85: Using 'lua backend=false' for axis: x c
+Package pgfplots info on input line 90: Using 'lua backend=false' for axis: x c
 oord trafo unsupported.
-PGFPlots: reading {./pt_data/ratio_nd1.csv}
- [7 <./images/TRPL_graph.JPG>] [8 <./images/ND0.jpg> <./images/ND1.jpg>] [9]
+PGFPlots: reading {./pt_data/ratio_nd1_2.csv}
+
+
+! Package pgfplots Error: Sorry, could not retrieve column 'data' from table '\
+\pgfplotstableread@filename@@table@name '. Please check spelling (or introduce 
+name aliases)..
+
+See the pgfplots package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 ...x=pt, y=data] {./pt_data/ratio_nd1_2.csv};
+                                                   %\addlegendentry {2003 LA...
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+! Package pgfplots Error: Sorry, the requested column number '' in table './pt_
+data/ratio_nd1_2.csv' does not exist!? Please verify you used the correct index
+ 0 <= i < N..
+
+See the pgfplots package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 ...x=pt, y=data] {./pt_data/ratio_nd1_2.csv};
+                                                   %\addlegendentry {2003 LA...
+(That was another \errmessage.)
+
+NOTE: coordinate (pt1,) has been dropped because of a coordinate filter. (see a
+lso unbounded coords=jump). 
+
+! Package pgfplots Error: Sorry, the requested column number '' in table './pt_
+data/ratio_nd1_2.csv' does not exist!? Please verify you used the correct index
+ 0 <= i < N..
+
+See the pgfplots package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 ...x=pt, y=data] {./pt_data/ratio_nd1_2.csv};
+                                                   %\addlegendentry {2003 LA...
+(That was another \errmessage.)
+
+NOTE: coordinate (pt2,) has been dropped because of a coordinate filter. (see a
+lso unbounded coords=jump). 
+
+! Package pgfplots Error: Sorry, the requested column number '' in table './pt_
+data/ratio_nd1_2.csv' does not exist!? Please verify you used the correct index
+ 0 <= i < N..
+
+See the pgfplots package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 ...x=pt, y=data] {./pt_data/ratio_nd1_2.csv};
+                                                   %\addlegendentry {2003 LA...
+(That was another \errmessage.)
+
+NOTE: coordinate (pt3,) has been dropped because of a coordinate filter. (see a
+lso unbounded coords=jump). 
+
+! Package pgfplots Error: Sorry, the requested column number '' in table './pt_
+data/ratio_nd1_2.csv' does not exist!? Please verify you used the correct index
+ 0 <= i < N..
+
+See the pgfplots package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 ...x=pt, y=data] {./pt_data/ratio_nd1_2.csv};
+                                                   %\addlegendentry {2003 LA...
+(That was another \errmessage.)
+
+NOTE: coordinate (pt4,) has been dropped because of a coordinate filter. (see a
+lso unbounded coords=jump). 
+
+! Package pgfplots Error: Sorry, the requested column number '' in table './pt_
+data/ratio_nd1_2.csv' does not exist!? Please verify you used the correct index
+ 0 <= i < N..
+
+See the pgfplots package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 ...x=pt, y=data] {./pt_data/ratio_nd1_2.csv};
+                                                   %\addlegendentry {2003 LA...
+(That was another \errmessage.)
+
+NOTE: coordinate (pt5,) has been dropped because of a coordinate filter. (see a
+lso unbounded coords=jump). 
+
+! Package pgfplots Error: Sorry, the requested column number '' in table './pt_
+data/ratio_nd1_2.csv' does not exist!? Please verify you used the correct index
+ 0 <= i < N..
+
+See the pgfplots package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 ...x=pt, y=data] {./pt_data/ratio_nd1_2.csv};
+                                                   %\addlegendentry {2003 LA...
+(That was another \errmessage.)
+
+NOTE: coordinate (pt6,) has been dropped because of a coordinate filter. (see a
+lso unbounded coords=jump). 
+
+! Package pgfplots Error: Sorry, the requested column number '' in table './pt_
+data/ratio_nd1_2.csv' does not exist!? Please verify you used the correct index
+ 0 <= i < N..
+
+See the pgfplots package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 ...x=pt, y=data] {./pt_data/ratio_nd1_2.csv};
+                                                   %\addlegendentry {2003 LA...
+(That was another \errmessage.)
+
+NOTE: coordinate (pt7,) has been dropped because of a coordinate filter. (see a
+lso unbounded coords=jump). 
+
+! Package pgfplots Error: Sorry, the requested column number '' in table './pt_
+data/ratio_nd1_2.csv' does not exist!? Please verify you used the correct index
+ 0 <= i < N..
+
+See the pgfplots package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 ...x=pt, y=data] {./pt_data/ratio_nd1_2.csv};
+                                                   %\addlegendentry {2003 LA...
+(That was another \errmessage.)
+
+NOTE: coordinate (pt8,) has been dropped because of a coordinate filter. (see a
+lso unbounded coords=jump). 
+
+! Package pgfplots Error: Sorry, the requested column number '' in table './pt_
+data/ratio_nd1_2.csv' does not exist!? Please verify you used the correct index
+ 0 <= i < N..
+
+See the pgfplots package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 ...x=pt, y=data] {./pt_data/ratio_nd1_2.csv};
+                                                   %\addlegendentry {2003 LA...
+(That was another \errmessage.)
+
+NOTE: coordinate (pt9,) has been dropped because of a coordinate filter. (see a
+lso unbounded coords=jump). 
+
+! Package pgfplots Error: Sorry, the requested column number '' in table './pt_
+data/ratio_nd1_2.csv' does not exist!? Please verify you used the correct index
+ 0 <= i < N..
+
+See the pgfplots package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 ...x=pt, y=data] {./pt_data/ratio_nd1_2.csv};
+                                                   %\addlegendentry {2003 LA...
+(That was another \errmessage.)
+
+NOTE: coordinate (pt10,) has been dropped because of a coordinate filter. (see 
+also unbounded coords=jump). 
+
+! Package pgfplots Error: Sorry, the requested column number '' in table './pt_
+data/ratio_nd1_2.csv' does not exist!? Please verify you used the correct index
+ 0 <= i < N..
+
+See the pgfplots package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 ...x=pt, y=data] {./pt_data/ratio_nd1_2.csv};
+                                                   %\addlegendentry {2003 LA...
+(That was another \errmessage.)
+
+NOTE: coordinate (pt11,) has been dropped because of a coordinate filter. (see 
+also unbounded coords=jump). 
+
+Package pgfplots Warning: the current plot has no coordinates (or all have been
+ filtered away) on input line 91.
+
+ [warning /pgfplots/warning/plot without coordinates]
+
+Package pgfplots Warning: You have an axis with empty range (in direction x). R
+eplacing it with a default range and clearing all plots. on input line 92.
+
+ [warning /pgfplots/warning/empty range cleared axis]
+[7 <./images/TRPL_graph.JPG>] [8 <./images/ND0.jpg> <./images/ND1.jpg>]
+[9]
 <images/ND0TRPL1.jpg, id=139, 819.06pt x 651.43375pt>
 File: images/ND0TRPL1.jpg Graphic file (type jpg)
 <use images/ND0TRPL1.jpg>
-Package pdftex.def Info: images/ND0TRPL1.jpg  used on input line 102.
+Package pdftex.def Info: images/ND0TRPL1.jpg  used on input line 107.
 (pdftex.def)             Requested size: 199.16928pt x 158.40488pt.
 <images/ND0TRPL2.jpg, id=140, 801.99625pt x 659.46375pt>
 File: images/ND0TRPL2.jpg Graphic file (type jpg)
 <use images/ND0TRPL2.jpg>
-Package pdftex.def Info: images/ND0TRPL2.jpg  used on input line 103.
+Package pdftex.def Info: images/ND0TRPL2.jpg  used on input line 108.
 (pdftex.def)             Requested size: 199.16928pt x 163.7687pt.
 <images/ND1TRPL1.jpg, id=141, 777.90625pt x 647.41875pt>
 File: images/ND1TRPL1.jpg Graphic file (type jpg)
 <use images/ND1TRPL1.jpg>
-Package pdftex.def Info: images/ND1TRPL1.jpg  used on input line 104.
+Package pdftex.def Info: images/ND1TRPL1.jpg  used on input line 109.
 (pdftex.def)             Requested size: 199.16928pt x 165.75641pt.
 <images/ND1TRPL2.jpg, id=142, 839.135pt x 681.54625pt>
 File: images/ND1TRPL2.jpg Graphic file (type jpg)
 <use images/ND1TRPL2.jpg>
-Package pdftex.def Info: images/ND1TRPL2.jpg  used on input line 105.
+Package pdftex.def Info: images/ND1TRPL2.jpg  used on input line 110.
 (pdftex.def)             Requested size: 199.16928pt x 161.76492pt.
 
-Overfull \hbox (9.7736pt too wide) in paragraph at lines 101--107
+Overfull \hbox (9.7736pt too wide) in paragraph at lines 106--112
  [] 
  []
 
@@ -1876,10 +2069,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 42037 strings out of 492649
- 985594 string characters out of 6133383
- 1136877 words of memory out of 5000000
- 45060 multiletter control sequences out of 15000+600000
+ 42035 strings out of 492649
+ 985564 string characters out of 6133384
+ 1129774 words of memory out of 5000000
+ 45058 multiletter control sequences out of 15000+600000
  686520 words of font info for 361 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,18n,138p,10407b,2281s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1951,7 +2144,7 @@ e1/urw/symbol/usyr.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/symbol/usyr.
 pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/20
 18/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2018/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on gshs_thesis_17021_main.pdf (20 pages, 4852349 bytes).
+Output written on gshs_thesis_17021_main.pdf (20 pages, 4452359 bytes).
 PDF statistics:
  383 PDF objects out of 1000 (max. 8388607)
  270 compressed objects within 3 object streams
