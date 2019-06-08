@@ -51,21 +51,44 @@ TRPL 그래프는 위의 그림과 같이 파란색의 그래프이다. t=28 ns�
 
 \begin{figure}[t]
 	\begin{center}
+		\begin{tabular}{cc}
 		\begin{tikzpicture}
 		\begin{axis} [
-		width=1.00\textwidth,%
-		height = 8cm,%
+		width=0.50\textwidth,%
+		height = 6cm,%
+		ybar,%
+		title={NO0 filter},%
 		xtick = data,%
 		symbolic x coords={pt1, pt2, pt3, pt4, pt5, pt6, pt7, pt8},%
-		ylabel= {ratioChlorophyll-a concentration ( $\rm mg~m^{-3}$)},%
-		ymin=0,ystep=0.5,ymax=2.0,%
+		ylabel= {ratio},%
+		ymin=0,ystep=0.5,ymax=10.0,%
 		scaled y ticks = false,%
 		ymajorgrids = true,
 		legend style={at={(0.02,10)}},legend pos=north west]%
-		\addplot table [x=Month, y=meanLAC_2003] {./data/mon_over00_year.csv}; \addlegendentry {2003 LAC}%
+		\addplot table [x=pt, y=data] {./pt_data/ratio_nd0.csv}; %\addlegendentry {2003 LAC}%
 		\end{axis}
+		\node at (-0.2, 5.0) {(a)};
 		\end{tikzpicture}
-		\caption{The histogram shows the ratio between exciton recombination rate and biexcitonrate, differed by the point of laser. (a) is when ND0 filter is used, and (b) is when ND1 filter is used. The standard deviation of ratio is 0.432 and 0.483, respectively. }	
+		&
+		\begin{tikzpicture}
+		\begin{axis} [
+		width=0.50\textwidth,%
+		height = 6cm,%
+		ybar,%
+		title={NO1 filter},%
+		xtick = data,%
+		symbolic x coords={pt1, pt2, pt3, pt4, pt5, pt6, pt7, pt8, pt9, pt10, pt11, pt12, pt13},%
+		ylabel= {ratio},%
+		ymin=0,ystep=0.5,ymax=10.0,%
+		scaled y ticks = false,%
+		ymajorgrids = true,
+		legend style={at={(0.02,10)}},legend pos=north west]%
+		\addplot table [x=pt, y=data] {./pt_data/ratio_nd1.csv}; %\addlegendentry {2003 LAC}%
+		\end{axis}
+		\node at (-0.2, 5.0) {(b)};
+		\end{tikzpicture}	
+		\end{tabular}		
+	\caption{The histogram shows the ratio between exciton recombination rate and biexcitonrate, differed by the point of laser. (a) is when ND0 filter is used, and (b) is when ND1 filter is used. The standard deviation of ratio is 0.432 and 0.483, respectively. }	
 		\label{fig:FIR221-1}
 	\end{center}
 \end{figure}
