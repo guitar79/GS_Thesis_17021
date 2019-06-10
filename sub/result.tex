@@ -2,7 +2,7 @@
 
 
 \subsection{Optic Microscopy}
-
+단결정이 만들어졌는지 확인하기 위하여 현미경으로 관측한 결과를 figure
 \begin{figure}[h!]
 	\begin{center}
 		\begin{tabular}{ccc}
@@ -14,21 +14,22 @@
 	\node at (-0.9, 3.8) {(b)};
 	\node[text=white] at (4.0, 3.8) {(c)};
 	\end{tikzpicture}
-		\caption{(a) The picture shows the silicon wafer with no crystals. After the crystal successfully grew, it could be seen by the eyes,(b) and (c) by optic microscopy.}	
+		\caption{(a) The picture shows the silicon wafer with no crystals. After the crystal successfully grew, it could be seen by the eyes :(b), and by optic microscopy :(c).}	
 		\label{fig:FIR221}
 	\end{center}
 \end{figure}
 \subsection{X-Ray Diffraction}
+
 \begin{figure}[h!]
 	\begin{center}
 		\begin{tabular}{c}
-			\includegraphics[width=10cm]{XRD}
+			\includegraphics[width=0.80\textwidth]{XRD}
 		\end{tabular}
 		\caption{The angle of incidence was varied 10 to 70 degrees. The graph was drawn with Origin 8.0}	
 		\label{fig:FIR221}
 	\end{center}
 \end{figure}
-$\rm{CsPbBr_3}$의 XRD peak는 2θ = 14.919, 30.099, 47.957도에서 발견되는 기존의 데이터와 일치하기 때문에 XRD 분석을 통해 $\rm{CsPbBr_3}$ 결정이 만들어졌다는 것을 알 수 있다 \cite{Jain2013}.
+$\rm{CsPbBr_3}$의 XRD peak는 2θ = 14.919$^{\circ}$ , 30.099$^{\circ}$ , 47.957$^{\circ}$에서 발견되는 기존의 데이터와 일치하기 때문에 XRD 분석을 통해 $\rm{CsPbBr_3}$ 결정이 만들어졌다는 것을 알 수 있다 \cite{Jain2013}.
 
 \subsection{TRPL spectroscopy}
 \begin{figure}[h]
@@ -40,7 +41,7 @@ $\rm{CsPbBr_3}$의 XRD peak는 2θ = 14.919, 30.099, 47.957도에서 발견되�
 		\label{fig:FIR221}
 	\end{center}
 \end{figure}
-TRPL 그래프는 위의 그림과 같이 파란색의 그래프이다. t=28 ns부근에서 최댓값을 확인 할 수 있었고, 그 시간 이후의 데이터를 시간에 따른 지수 함수(exponential function)들의 합으로 fitting 할 수 있는데, 그 식은 $\sum_{i}^{} {e}^{-t/{\tau}_{i}}$ 로 표현된다. $\rm{CsPbBr_3}$는 exciton과 biexciton의 recombination으로 나뉘기 때문에 두 개의 exponential function의 합으로 표현하였다. 
+TRPL 그래프는 위의 그림과 같이 파란색의 그래프이다. t = 28 ns부근에서 최댓값을 확인 할 수 있었고, 그 시간 이후의 데이터를 시간에 따른 지수 함수(exponential function)들의 합으로 fitting 할 수 있는데, 그 식은 $\sum_{i}^{} {e}^{-t/{\tau}_{i}}$ 로 표현된다. $\rm{CsPbBr_3}$는 exciton과 biexciton의 recombination으로 나뉘기 때문에 두 개의 exponential function의 합으로 표현하였다. 
 
 그래프의 피팅을 위해 파이썬을 활용하였다. TRPL 데이터를 순서쌍으로 바꿔서 그래프를 그린 후, mathplot library에 내재된 함수인 curve fit을 이용하여 최소제곱법으로 가장 비슷한 함수를 찾아낸다.
 
@@ -91,16 +92,89 @@ TRPL 그래프는 위의 그림과 같이 파란색의 그래프이다. t=28 ns�
  만들어진 결정이 $\rm{CsPbBr_3}$ 임을 확인하기 위해서 exciton과 biexciton의 recombination rate에 대한 비율을 계산하였다. 
 ND0 필터를 사용했을 때 두 recombination rate 사이의 비율에 대한 평균값은 3.43 이었고 ND1필터를 사용 했을 때는 3.30이었다.
 \clearpage
-\begin{figure}[h]
+\begin{figure}[t]
 	\begin{center}
-		\begin{tabular}{cc}
-			\includegraphics[width=7cm]{ND0TRPL1} &
-			\includegraphics[width=7cm]{ND0TRPL2}\\
-			\includegraphics[width=7cm]{ND1TRPL1} &
-			\includegraphics[width=7cm]{ND1TRPL2}
+		\begin{tabular}{ccc}
+			\begin{tikzpicture}
+			\begin{axis} [
+			width=0.33\textwidth,%
+			height = 5cm,%
+			ybar,%
+			bar width=10pt,
+			title={ND0 filter},%
+			xtick = data,%
+			symbolic x coords={pt6, pt4},%
+			ylabel= {nsec},%
+			ymin=0,ystep=0.2,ymax=2.5,%
+			scaled y ticks = false,%
+			ymajorgrids = true,
+			legend style={at={(0.02,10)}},legend pos=north west]%
+			\addplot table [x=pt, y=tau1] {./ND_data/nd0_1.csv}; \addlegendentry {tau 1},%
+			\addplot table [x=pt, y=tau2]
+			{./ND_data/nd0_1.csv}; \addlegendentry {tau 2}%
+			\end{axis}
+			\node at (-0.2, 5.0) {(a)};
+			\end{tikzpicture}
+			&
+			\begin{tikzpicture}
+			\begin{axis} [
+			width=0.33\textwidth,%
+			height = 5cm,%
+			ybar,%
+			bar width=10pt,
+			title={ND0 filter},%
+			xtick = data,%
+			symbolic x coords={pt1, pt2, pt3},%
+			ylabel= {nsec},%
+			ymin=0,ystep=0.2,ymax=2.5,%
+			scaled y ticks = false,%
+			ymajorgrids = true,
+			legend style={at={(0.02,10)}},legend pos=north west]%
+			\addplot table [x=pt, y=tau1] {./ND_data/nd0_2.csv}; \addlegendentry {tau 1},%
+			\addplot table [x=pt, y=tau2]
+			{./ND_data/nd0_2.csv}; \addlegendentry {tau 2}%
+			\end{axis}
+			\node at (-0.2, 5.0) {(b)};
+			\end{tikzpicture}
+				
+		\end{tabular}		
+		\caption{Both exciton / biexciton recombination rate increased when the laser point headed to the center of the crystal. The unit of y-axis is ns. ND0 filter is used. Tau 1 means the exciton recombination rate, and tau 2 mean the biexciton recombination rate.}	
+		\label{fig:FIR221-1}
+	\end{center}
+\end{figure}
+\begin{figure}[H]
+	\begin{center}
+		\begin{tabular}{ccc}
+			\includegraphics[width=6cm]{ND0TRPL1} &
+			\includegraphics[width=6cm]{ND0TRPL2} &
+			\includegraphics[width=3cm]{nd0place}
 		\end{tabular}
-		\caption{Both exciton / biexciton recombination rate increased when the laser point headed to the center of the crystal. The unit of y-axis is ns.}	
+	\begin{tikzpicture} [remember picture,overlay]
+	\node at (-7.0, 4.5) {(a)};
+	\node at (-0.9, 4.5) {(b)};
+	\node at (6.1, 3.3) {(c)};
+	\end{tikzpicture}
+		\caption{Both exciton / biexciton recombination rate increased when the laser point headed to the center of the crystal. The unit of y-axis is ns. ND0 filter is used. Tau 1 means the exciton recombination rate, and tau 2 mean the biexciton recombination rate.}	
 		\label{fig:FIR221}
 	\end{center}
 \end{figure}
-Figure 7은 exciton / biexciton recombination rate의 비율이 아닌, 값 자체를 히스토그램으로 나타낸 것으로, 두 값 모두가 결정의 중심쪽으로 갈수록 증가하고 있음을 관찰할 수 있다. 
+Figure 7은 exciton / biexciton recombination rate의 비율이 아닌, 값 자체를 히스토그램으로 나타낸 것으로, 두 값 모두가 결정의 중심쪽으로 갈수록 증가하고 있음을 관찰할 수 있다. (c)는 (a)와 (b)에서의 x축에 해당하는 점들의 위치를 표시하고 있다. (a)의 경우 TRPL 데이터가 점 6에서 점 4로 갈 때에 recombination rate가 증가하는 것을 볼 수 있다. 마찬가지로 (b)의 경우에도 TRPL 데이터가 점 1에서 2를 거쳐 3으로 갈 때에도 recombination rate가 증가하였다. 
+
+\begin{figure}[H]
+	\begin{center}
+		\begin{tabular}{ccc}
+			\includegraphics[width=6cm]{ND1TRPL1} &
+			\includegraphics[width=6cm]{ND1TRPL2} &
+			\includegraphics[width=3cm]{nd1place}
+		\end{tabular}
+	\begin{tikzpicture} [remember picture,overlay]
+	\node at (-7.0, 4.5) {(a)};
+	\node at (-0.9, 4.5) {(b)};
+	\node at (6.1, 2.7) {(c)};
+	\end{tikzpicture}
+		\caption{Same tendency can be seen also when ND1 filter is used.}	
+		\label{fig:FIR221}
+	\end{center}
+\end{figure}
+
+Figure 8은  Figure 7과 마찬가지로 결정의 중심부분으로 갈수록 recombination rate가 증가하는 모습을 보여준다. 
