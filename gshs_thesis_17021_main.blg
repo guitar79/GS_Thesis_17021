@@ -12,45 +12,45 @@ Database file #1: bibfile.bib
 Warning--there's a number but no series in kojima2006novel
 You can't pop an empty literal stack for entry chen2018room
 while executing---line 1410 of file gshs_thesis.bst
-You've used 12 entries,
+You've used 13 entries,
             2759 wiz_defined-function locations,
-            697 strings with 7636 characters,
-and the built_in function-call counts, 4942 in all, are:
-= -- 353
-> -- 325
-< -- 40
-+ -- 136
-- -- 112
-* -- 523
-:= -- 940
-add.period$ -- 37
-call.type$ -- 12
-change.case$ -- 35
+            704 strings with 7842 characters,
+and the built_in function-call counts, 5299 in all, are:
+= -- 378
+> -- 344
+< -- 41
++ -- 144
+- -- 118
+* -- 563
+:= -- 1004
+add.period$ -- 40
+call.type$ -- 13
+change.case$ -- 38
 chr.to.int$ -- 0
-cite$ -- 13
-duplicate$ -- 162
-empty$ -- 311
-format.name$ -- 124
-if$ -- 899
+cite$ -- 14
+duplicate$ -- 175
+empty$ -- 338
+format.name$ -- 131
+if$ -- 964
 int.to.chr$ -- 0
-int.to.str$ -- 24
-missing$ -- 11
-newline$ -- 63
-num.names$ -- 36
-pop$ -- 37
+int.to.str$ -- 26
+missing$ -- 12
+newline$ -- 68
+num.names$ -- 39
+pop$ -- 40
 preamble$ -- 1
-purify$ -- 48
+purify$ -- 52
 quote$ -- 0
-skip$ -- 86
+skip$ -- 92
 stack$ -- 0
-substring$ -- 294
-swap$ -- 65
+substring$ -- 319
+swap$ -- 70
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 36
+type$ -- 39
 warning$ -- 1
-while$ -- 42
-width$ -- 14
-write$ -- 160
+while$ -- 45
+width$ -- 15
+write$ -- 173
 (There was 1 error message)

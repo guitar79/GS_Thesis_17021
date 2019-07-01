@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.25)  1 JUL 2019 16:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.25)  1 JUL 2019 19:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1862,10 +1862,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 42204 strings out of 492649
- 990138 string characters out of 6133384
- 1167377 words of memory out of 5000000
- 45211 multiletter control sequences out of 15000+600000
+ 42205 strings out of 492649
+ 990151 string characters out of 6133384
+ 1167381 words of memory out of 5000000
+ 45212 multiletter control sequences out of 15000+600000
  690706 words of font info for 370 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,27n,138p,10407b,2541s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1940,7 +1940,7 @@ type1/uhc/umj/umj36.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/symbol/usyr
 18/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2018/texmf-dist/font
 s/type1/urw/times/utmr8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on gshs_thesis_17021_main.pdf (20 pages, 4462610 bytes).
+Output written on gshs_thesis_17021_main.pdf (20 pages, 4467053 bytes).
 PDF statistics:
  391 PDF objects out of 1000 (max. 8388607)
  279 compressed objects within 3 object streams
