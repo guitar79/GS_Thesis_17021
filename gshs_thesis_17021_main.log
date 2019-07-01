@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.25)  1 JUL 2019 10:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.25)  1 JUL 2019 16:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1754,43 +1754,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
 File: images/optic.jpg Graphic file (type jpg)
 <use images/optic.jpg>
 Package pdftex.def Info: images/optic.jpg  used on input line 9.
-(pdftex.def)             Requested size: 151.88821pt x 113.81102pt.
+(pdftex.def)             Requested size: 132.89836pt x 99.58464pt.
 <images/crystal.jpg, id=113, 195.73125pt x 175.65625pt>
 File: images/crystal.jpg Graphic file (type jpg)
 <use images/crystal.jpg>
 Package pdftex.def Info: images/crystal.jpg  used on input line 9.
-(pdftex.def)             Requested size: 126.8206pt x 113.81102pt.
+(pdftex.def)             Requested size: 110.96765pt x 99.58464pt.
 <images/crystal_made.jpg, id=114, 250.9375pt x 198.7425pt>
 File: images/crystal_made.jpg Graphic file (type jpg)
 <use images/crystal_made.jpg>
 Package pdftex.def Info: images/crystal_made.jpg  used on input line 10.
-(pdftex.def)             Requested size: 143.70592pt x 113.81102pt.
-
-Overfull \hbox (45.84978pt too wide) in paragraph at lines 8--17
- [] 
- []
-
+(pdftex.def)             Requested size: 125.7403pt x 99.58464pt.
 <images/XRD.jpg, id=115, 484.30937pt x 309.65688pt>
 File: images/XRD.jpg Graphic file (type jpg)
 <use images/XRD.jpg>
 Package pdftex.def Info: images/XRD.jpg  used on input line 26.
-(pdftex.def)             Requested size: 206.28247pt x 131.893pt.
-<images/TRPL_graph.jpg, id=116, 552.56438pt x 349.80687pt>
+(pdftex.def)             Requested size: 185.65297pt x 118.70087pt.
+<images/TRPL_graph.jpg, id=116, 571.63562pt x 365.365pt>
 File: images/TRPL_graph.jpg Graphic file (type jpg)
 <use images/TRPL_graph.jpg>
 Package pdftex.def Info: images/TRPL_graph.jpg  used on input line 39.
-(pdftex.def)             Requested size: 398.33858pt x 252.17033pt.
-Package pgfplots info on input line 61: Using 'lua backend=false' for axis: x c
+(pdftex.def)             Requested size: 398.33858pt x 254.59972pt.
+ [6
+
+
+ <./images/optic.jpg> <./images/crystal.JPG> <./images/crystal_made.jpg> <./ima
+ges/XRD.jpg>]
+Package pgfplots info on input line 62: Using 'lua backend=false' for axis: x c
 oord trafo unsupported.
 PGFPlots: reading {./pt_data/ratio_nd0.csv}
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 63.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 64.
+
 (c:/texlive/2018/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Package pgfplots info on input line 79: Using 'lua backend=false' for axis: x c
+Package pgfplots info on input line 80: Using 'lua backend=false' for axis: x c
 oord trafo unsupported.
 PGFPlots: reading {./pt_data/ratio_nd1_2.csv}
-Package pgfplots info on input line 105: Using 'lua backend=false' for axis: x 
+Package pgfplots info on input line 106: Using 'lua backend=false' for axis: x 
 coord trafo unsupported.
 PGFPlots: reading {./ND_data/nd0_1.csv}
 Missing character: There is no , in font nullfont!
@@ -1805,36 +1806,31 @@ ex
 File: pgflibrarypatterns.code.tex 2008/03/03 v3.0.1a (rcs-revision 1.13)
 ))
 Missing character: There is no , in font nullfont!
-Package pgfplots info on input line 127: Using 'lua backend=false' for axis: x 
+Package pgfplots info on input line 128: Using 'lua backend=false' for axis: x 
 coord trafo unsupported.
 PGFPlots: reading {./ND_data/nd0_2.csv}
 Missing character: There is no , in font nullfont!
 PGFPlots: reading {./ND_data/nd0_2.csv}
-<images/nd0place.jpg, id=117, 188.705pt x 210.7875pt>
+<images/nd0place.jpg, id=126, 188.705pt x 210.7875pt>
 File: images/nd0place.jpg Graphic file (type jpg)
 <use images/nd0place.jpg>
-Package pdftex.def Info: images/nd0place.jpg  used on input line 134.
+Package pdftex.def Info: images/nd0place.jpg  used on input line 135.
 (pdftex.def)             Requested size: 85.35826pt x 95.3456pt.
 
-Overfull \hbox (38.28732pt too wide) in paragraph at lines 91--140
+Overfull \hbox (38.28732pt too wide) in paragraph at lines 92--141
  [] 
  []
 
-[6
-
-
- <./images/optic.jpg> <./images/crystal.JPG> <./images/crystal_made.jpg> <./ima
-ges/XRD.jpg>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [7 <./images/TRPL_graph.JPG>]
-Package pgfplots info on input line 165: Using 'lua backend=false' for axis: x 
+Package pgfplots info on input line 166: Using 'lua backend=false' for axis: x 
 coord trafo unsupported.
 PGFPlots: reading {./ND_data/nd1_1.csv}
 Missing character: There is no , in font nullfont!
 PGFPlots: reading {./ND_data/nd1_1.csv}
-Package pgfplots info on input line 187: Using 'lua backend=false' for axis: x 
+Package pgfplots info on input line 188: Using 'lua backend=false' for axis: x 
 coord trafo unsupported.
 PGFPlots: reading {./ND_data/nd1_2.csv}
 Missing character: There is no , in font nullfont!
@@ -1842,7 +1838,7 @@ PGFPlots: reading {./ND_data/nd1_2.csv}
 <images/nd1place.jpg, id=133, 177.66376pt x 164.615pt>
 File: images/nd1place.jpg Graphic file (type jpg)
 <use images/nd1place.jpg>
-Package pdftex.def Info: images/nd1place.jpg  used on input line 194.
+Package pdftex.def Info: images/nd1place.jpg  used on input line 195.
 (pdftex.def)             Requested size: 85.35826pt x 79.08965pt.
 ) [8] [9 <./images/nd0place.jpg> <./images/nd1place.jpg>]
 \openout2 = `sub/conclusion.aux'.
@@ -1866,13 +1862,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 42201 strings out of 492649
- 990108 string characters out of 6133384
- 1168379 words of memory out of 5000000
- 45210 multiletter control sequences out of 15000+600000
- 689201 words of font info for 368 fonts, out of 8000000 for 9000
+ 42204 strings out of 492649
+ 990138 string characters out of 6133384
+ 1167377 words of memory out of 5000000
+ 45211 multiletter control sequences out of 15000+600000
+ 690706 words of font info for 370 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,27n,138p,10407b,2543s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,27n,138p,10407b,2541s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texl
 ive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2018/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/
@@ -1944,7 +1940,7 @@ type1/uhc/umj/umj36.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/symbol/usyr
 18/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2018/texmf-dist/font
 s/type1/urw/times/utmr8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on gshs_thesis_17021_main.pdf (20 pages, 4477242 bytes).
+Output written on gshs_thesis_17021_main.pdf (20 pages, 4462610 bytes).
 PDF statistics:
  391 PDF objects out of 1000 (max. 8388607)
  279 compressed objects within 3 object streams

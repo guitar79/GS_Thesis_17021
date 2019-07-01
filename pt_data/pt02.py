@@ -45,7 +45,7 @@ def exponenial_func(x, a, b, c, d, e, f):
         return a+b*np.exp(-(x-f)/c)+d*np.exp(-(x-f)/e)
     
 #list for drawing chart
-f_names = ['pt01.txt', 'pt02.txt', 'pt03.txt', 'pt04.txt', 'pt05.txt', 'pt06.txt', 'pt07.txt', 'pt08.txt', 'pt09.txt', 'pt010.txt', 'pt011.txt', 'pt012.txt', 'pt013.txt']
+f_names = ['pt1.txt', 'pt2.txt', 'pt3.txt', 'pt4.txt', 'pt5.txt', 'pt6.txt', 'pt7.txt', 'pt8.txt']
 
 #processing each files
 for f_name in f_names :
@@ -98,15 +98,15 @@ for f_name in f_names :
     plt.figure(1, figsize = (15,10))
     plt.plot(x, y, 'o', xx, yy, marker='o', linestyle='dashed', linewidth=1, markersize=2)
     #plt.ylim(0, 2000)
-    plt.xlim(28, 52)
+    plt.xlim(25, 50)
     plt.ylim(-100, 70000)
     #plt.ylim(0, max(y)+1000)
-    plt.title('TRPL Exponential Fit of CsPbBr3', fontsize=16)
-    plt.text(45, 2000, 'max_iy : {0}'.format(max_iy), horizontalalignment='left', verticalalignment='center')
-    plt.text(30, -5000, 'p00 : {0}'.format(p00), horizontalalignment='left', verticalalignment='center')
-    plt.text(30, -8000, 'popt : {0}'.format(popt), horizontalalignment='left', verticalalignment='center')
-    plt.text(45, -5000,'x-axis : ns')
-    plt.text(45, -6000,'y-axis : a.u.')
+    plt.title('TRPL Exponential Fit of $CsPbBr_3$', fontsize=16)
+    #plt.text(45, 2000, 'max_iy : {0}'.format(max_iy), horizontalalignment='left', verticalalignment='center')
+    #plt.text(30, -5000, 'p00 : {0}'.format(p00), horizontalalignment='left', verticalalignment='center')
+    #plt.text(30, -8000, 'popt : {0}'.format(popt), horizontalalignment='left', verticalalignment='center')
+    plt.text(48, -2500,'time [ns]')
+    plt.text(22.5, 68000,'intensity [a.u.]')
     if  save_chart == True :
         #plt.savefig('{0}{1}_{2}.pdf'.format(chart_dir_name, f_name[:-4], start_time.strftime("%Y%m%d%H%M%S")))
         plt.savefig('{0}{1}_{2}.png'.format(chart_dir_name, f_name[:-4], cht_start_time.strftime("%Y%m%d%H%M%S")))
