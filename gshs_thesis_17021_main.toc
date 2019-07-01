@@ -5,8 +5,8 @@
 \contentsline {subsection}{\numberline {II.1}준비}{4}
 \contentsline {subsection}{\numberline {II.2}분석}{5}
 \contentsline {section}{\numberline {III}Results}{6}
-\contentsline {subsection}{\numberline {III.1}Optic Microscopy}{6}
-\contentsline {subsection}{\numberline {III.2}X-Ray Diffraction}{6}
-\contentsline {subsection}{\numberline {III.3}TRPL spectroscopy}{7}
-\contentsline {section}{\numberline {IV}Conclusion}{11}
+\contentsline {subsection}{\numberline {III.1}광학 현미경 관찰}{6}
+\contentsline {subsection}{\numberline {III.2}X-Ray 회절 분석}{6}
+\contentsline {subsection}{\numberline {III.3}TRPL 분석}{7}
+\contentsline {section}{\numberline {IV}Conclusion}{10}
 \contentsline {section}{References}{12}

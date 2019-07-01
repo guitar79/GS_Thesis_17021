@@ -1,0 +1,15 @@
+maximun index of y: 586
+maximun value of y: 3334.9999
+last index of y value: 947
+last value of y: 10.025101
+p00 : (51.8487289, 19873.9841, 1.17, 19447.0209, 0.51, 28.668475)
+popt : [ 1.35698335e+02  3.91449559e+07  1.21393259e+00  8.78808101e+07
+  5.48257904e-01 -2.27589802e+03]
+pcov : [[inf inf inf inf inf inf]
+ [inf inf inf inf inf inf]
+ [inf inf inf inf inf inf]
+ [inf inf inf inf inf inf]
+ [inf inf inf inf inf inf]
+ [inf inf inf inf inf inf]]
+ratio1:2.214163409448751
+ratio2:0.45163784919061817
