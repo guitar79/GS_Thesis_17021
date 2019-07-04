@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.25)  2 JUL 2019 20:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.25)  4 JUL 2019 20:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -781,7 +781,15 @@ File: tikzlibraryplotmarks.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 (c:/texlive/2018/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.
 tex
 File: pgflibraryplotmarks.code.tex 2015/08/03 v3.0.1a (rcs-revision 1.14)
-))) (c:/texlive/2018/texmf-dist/tex/latex/float/float.sty
+)))
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2008/01/15 v3.0.1a (rcs-revision 1.2)
+
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/libraries/pgflibrarypatterns.code.t
+ex
+File: pgflibrarypatterns.code.tex 2008/03/03 v3.0.1a (rcs-revision 1.13)
+)) (c:/texlive/2018/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count142
 \float@exts=\toks46
@@ -1795,22 +1803,13 @@ coord trafo unsupported.
 PGFPlots: reading {./ND_data/nd0_1.csv}
 Missing character: There is no , in font nullfont!
 PGFPlots: reading {./ND_data/nd0_1.csv}
-
-(c:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-brarypatterns.code.tex
-File: tikzlibrarypatterns.code.tex 2008/01/15 v3.0.1a (rcs-revision 1.2)
-
-(c:/texlive/2018/texmf-dist/tex/generic/pgf/libraries/pgflibrarypatterns.code.t
-ex
-File: pgflibrarypatterns.code.tex 2008/03/03 v3.0.1a (rcs-revision 1.13)
-))
 Missing character: There is no , in font nullfont!
 Package pgfplots info on input line 127: Using 'lua backend=false' for axis: x 
 coord trafo unsupported.
 PGFPlots: reading {./ND_data/nd0_2.csv}
 Missing character: There is no , in font nullfont!
 PGFPlots: reading {./ND_data/nd0_2.csv}
-<images/nd0place.jpg, id=117, 188.705pt x 210.7875pt>
+<images/nd0place.jpg, id=119, 188.705pt x 210.7875pt>
 File: images/nd0place.jpg Graphic file (type jpg)
 <use images/nd0place.jpg>
 Package pdftex.def Info: images/nd0place.jpg  used on input line 134.
@@ -1839,7 +1838,7 @@ coord trafo unsupported.
 PGFPlots: reading {./ND_data/nd1_2.csv}
 Missing character: There is no , in font nullfont!
 PGFPlots: reading {./ND_data/nd1_2.csv}
-<images/nd1place.jpg, id=133, 177.66376pt x 164.615pt>
+<images/nd1place.jpg, id=135, 177.66376pt x 164.615pt>
 File: images/nd1place.jpg Graphic file (type jpg)
 <use images/nd1place.jpg>
 Package pdftex.def Info: images/nd1place.jpg  used on input line 194.
@@ -1866,13 +1865,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 42205 strings out of 492649
- 990151 string characters out of 6133384
- 1168339 words of memory out of 5000000
- 45212 multiletter control sequences out of 15000+600000
+ 42206 strings out of 492649
+ 990171 string characters out of 6133384
+ 1167528 words of memory out of 5000000
+ 45213 multiletter control sequences out of 15000+600000
  690706 words of font info for 370 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,27n,138p,10407b,2543s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,27n,138p,10407b,2431s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texl
 ive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2018/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/
@@ -1944,10 +1943,10 @@ type1/uhc/umj/umj36.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/symbol/usyr
 18/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2018/texmf-dist/font
 s/type1/urw/times/utmr8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on gshs_thesis_17021_main.pdf (20 pages, 4466314 bytes).
+Output written on gshs_thesis_17021_main.pdf (20 pages, 4466607 bytes).
 PDF statistics:
- 391 PDF objects out of 1000 (max. 8388607)
+ 393 PDF objects out of 1000 (max. 8388607)
  279 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 68 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
