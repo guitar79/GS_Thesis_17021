@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.25)  5 JUL 2019 12:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.25)  5 JUL 2019 13:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1712,7 +1712,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 [4
 
 
-] [5])
+])
 \openout2 = `sub/introduction.aux'.
 
  (./sub/introduction.tex
@@ -1735,7 +1735,7 @@ j/m/n/10.95/c7 D \LUC/nanummj/m/n/10.95/d5 \\LUC/nanummj/m/n/10.95/b2 ä\T1/ptm/
 m/n/10.95 . Turner
  []
 
-<images/perovskite_structure(2).jpg, id=93, 405.01312pt x 283.55937pt>
+<images/perovskite_structure(2).jpg, id=90, 405.01312pt x 283.55937pt>
 File: images/perovskite_structure(2).jpg Graphic file (type jpg)
 <use images/perovskite_structure(2).jpg>
 Package pdftex.def Info: images/perovskite_structure(2).jpg  used on input line
@@ -1754,17 +1754,17 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
  (./sub/methodology.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <16> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 3.
-<images/sonic.jpg, id=108, 1445.4pt x 1445.4pt>
+<images/sonic.jpg, id=105, 1445.4pt x 1445.4pt>
 File: images/sonic.jpg Graphic file (type jpg)
 <use images/sonic.jpg>
 Package pdftex.def Info: images/sonic.jpg  used on input line 9.
 (pdftex.def)             Requested size: 113.81102pt x 113.80379pt.
-<images/spin_coater.jpg, id=109, 1445.4pt x 1445.4pt>
+<images/spin_coater.jpg, id=106, 1445.4pt x 1445.4pt>
 File: images/spin_coater.jpg Graphic file (type jpg)
 <use images/spin_coater.jpg>
 Package pdftex.def Info: images/spin_coater.jpg  used on input line 9.
 (pdftex.def)             Requested size: 113.81102pt x 113.80379pt.
-<images/pdms_stamping.jpg, id=110, 1445.4pt x 1445.4pt>
+<images/pdms_stamping.jpg, id=107, 1445.4pt x 1445.4pt>
 File: images/pdms_stamping.jpg Graphic file (type jpg)
 <use images/pdms_stamping.jpg>
 Package pdftex.def Info: images/pdms_stamping.jpg  used on input line 10.
@@ -1782,17 +1782,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
 \openout2 = `sub/result.aux'.
 
  (./sub/result.tex
-<images/optic.jpg, id=120, 668.7384pt x 501.072pt>
+<images/optic.jpg, id=117, 668.7384pt x 501.072pt>
 File: images/optic.jpg Graphic file (type jpg)
 <use images/optic.jpg>
 Package pdftex.def Info: images/optic.jpg  used on input line 9.
 (pdftex.def)             Requested size: 132.89836pt x 99.58464pt.
-<images/crystal.jpg, id=121, 195.73125pt x 175.65625pt>
+<images/crystal.jpg, id=118, 195.73125pt x 175.65625pt>
 File: images/crystal.jpg Graphic file (type jpg)
 <use images/crystal.jpg>
 Package pdftex.def Info: images/crystal.jpg  used on input line 9.
 (pdftex.def)             Requested size: 110.96765pt x 99.58464pt.
-<images/crystal_made.jpg, id=122, 250.9375pt x 198.7425pt>
+<images/crystal_made.jpg, id=119, 250.9375pt x 198.7425pt>
 File: images/crystal_made.jpg Graphic file (type jpg)
 <use images/crystal_made.jpg>
 Package pdftex.def Info: images/crystal_made.jpg  used on input line 10.
@@ -1801,7 +1801,7 @@ Package pdftex.def Info: images/crystal_made.jpg  used on input line 10.
 
 
  <./images/optic.jpg> <./images/crystal.JPG> <./images/crystal_made.jpg>]
-<images/XRD.jpg, id=129, 506.39188pt x 352.81813pt>
+<images/XRD.jpg, id=126, 506.39188pt x 352.81813pt>
 File: images/XRD.jpg Graphic file (type jpg)
 <use images/XRD.jpg>
 Package pdftex.def Info: images/XRD.jpg  used on input line 27.
@@ -1811,92 +1811,97 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--32
 
  []
 
-<images/TRPL_graph.jpg, id=131, 571.63562pt x 365.365pt>
+<images/TRPL_graph.jpg, id=128, 1084.05pt x 722.7pt>
 File: images/TRPL_graph.jpg Graphic file (type jpg)
 <use images/TRPL_graph.jpg>
 Package pdftex.def Info: images/TRPL_graph.jpg  used on input line 40.
-(pdftex.def)             Requested size: 398.33858pt x 254.59972pt.
-Package pgfplots info on input line 62: Using 'lua backend=false' for axis: x c
+(pdftex.def)             Requested size: 398.33858pt x 265.55322pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package pgfplots info on input line 63: Using 'lua backend=false' for axis: x c
 oord trafo unsupported.
 PGFPlots: reading {./pt_data/ratio_nd0.csv}
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 64.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 65.
 (c:/texlive/2018/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Package pgfplots info on input line 80: Using 'lua backend=false' for axis: x c
+Package pgfplots info on input line 81: Using 'lua backend=false' for axis: x c
 oord trafo unsupported.
 PGFPlots: reading {./pt_data/ratio_nd1_2.csv}
-Package pgfplots info on input line 106: Using 'lua backend=false' for axis: x 
+Package pgfplots info on input line 107: Using 'lua backend=false' for axis: x 
 coord trafo unsupported.
 PGFPlots: reading {./ND_data/nd0_1.csv}
 Missing character: There is no , in font nullfont!
 PGFPlots: reading {./ND_data/nd0_1.csv}
 Missing character: There is no , in font nullfont!
-Package pgfplots info on input line 128: Using 'lua backend=false' for axis: x 
+Package pgfplots info on input line 129: Using 'lua backend=false' for axis: x 
 coord trafo unsupported.
 PGFPlots: reading {./ND_data/nd0_2.csv}
 Missing character: There is no , in font nullfont!
 PGFPlots: reading {./ND_data/nd0_2.csv}
-<images/nd0place.jpg, id=134, 188.705pt x 210.7875pt>
+<images/nd0place.jpg, id=131, 188.705pt x 210.7875pt>
 File: images/nd0place.jpg Graphic file (type jpg)
 <use images/nd0place.jpg>
-Package pdftex.def Info: images/nd0place.jpg  used on input line 135.
+Package pdftex.def Info: images/nd0place.jpg  used on input line 136.
 (pdftex.def)             Requested size: 85.35826pt x 95.3456pt.
 
-Overfull \hbox (38.28732pt too wide) in paragraph at lines 92--141
+Overfull \hbox (38.28732pt too wide) in paragraph at lines 93--142
  [] 
  []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 [7 <./images/XRD.jpg>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8 <./images/TRPL_graph.JPG>]
-Package pgfplots info on input line 166: Using 'lua backend=false' for axis: x 
+[8 <./images/TRPL_graph.jpg>]
+Package pgfplots info on input line 167: Using 'lua backend=false' for axis: x 
 coord trafo unsupported.
 PGFPlots: reading {./ND_data/nd1_1.csv}
 Missing character: There is no , in font nullfont!
 PGFPlots: reading {./ND_data/nd1_1.csv}
-Package pgfplots info on input line 188: Using 'lua backend=false' for axis: x 
+Package pgfplots info on input line 189: Using 'lua backend=false' for axis: x 
 coord trafo unsupported.
 PGFPlots: reading {./ND_data/nd1_2.csv}
 Missing character: There is no , in font nullfont!
 PGFPlots: reading {./ND_data/nd1_2.csv}
-<images/nd1place.jpg, id=147, 177.66376pt x 164.615pt>
+<images/nd1place.jpg, id=145, 177.66376pt x 164.615pt>
 File: images/nd1place.jpg Graphic file (type jpg)
 <use images/nd1place.jpg>
-Package pdftex.def Info: images/nd1place.jpg  used on input line 195.
+Package pdftex.def Info: images/nd1place.jpg  used on input line 196.
 (pdftex.def)             Requested size: 85.35826pt x 79.08965pt.
-) [9 <./images/nd1place.jpg>] [10 <./images/nd0place.jpg>]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [9] [10 <./images/nd0place.jpg> <./images/nd1place.jpg>]
 \openout2 = `sub/conclusion.aux'.
 
- (./sub/conclusion.tex [11
+
+(./sub/conclusion.tex [11
 
 
-]) [12] (./gshs_thesis_17021_main.bbl
-[13
+]) [12] (./gshs_thesis_17021_main.bbl [13
 
 ]
 Missing character: There is no ^^H in font uwmj03!
 ) [14]
 \openout2 = `sub/footer.aux'.
 
- (./sub/footer.tex) (./gshs_thesis_17021_main.aux (./sub/abstract.aux) (./sub/i
-ntroduction.aux) (./sub/methodology.aux) (./sub/result.aux)
+
+(./sub/footer.tex) (./gshs_thesis_17021_main.aux (./sub/abstract.aux)
+(./sub/introduction.aux) (./sub/methodology.aux) (./sub/result.aux)
 (./sub/conclusion.aux) (./sub/footer.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 42210 strings out of 492649
- 990235 string characters out of 6133384
- 1166175 words of memory out of 5000000
+ 42215 strings out of 492649
+ 990259 string characters out of 6133384
+ 1166185 words of memory out of 5000000
  45214 multiletter control sequences out of 15000+600000
- 690706 words of font info for 370 fonts, out of 8000000 for 9000
+ 693044 words of font info for 375 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,27n,138p,10407b,2431s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texl
@@ -1961,19 +1966,18 @@ xlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd4.pfb><c:/texlive/
 2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pfb><c:/texlive/2018/t
 exmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb><c:/texlive/2018/texmf-d
 ist/fonts/type1/public/nanumtype1/nanummjmd7.pfb><c:/texlive/2018/texmf-dist/fo
-nts/type1/public/cm-super/sfss0600.pfb><c:/texlive/2018/texmf-dist/fonts/type1/
-public/cm-super/sfss0800.pfb><c:/texlive/2018/texmf-dist/fonts/type1/uhc/umj/um
-j01.pfb><c:/texlive/2018/texmf-dist/fonts/type1/uhc/umj/umj20.pfb><c:/texlive/2
-018/texmf-dist/fonts/type1/uhc/umj/umj34.pfb><c:/texlive/2018/texmf-dist/fonts/
-type1/uhc/umj/umj36.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/symbol/usyr
-.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/20
-18/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2018/texmf-dist/font
-s/type1/urw/times/utmr8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/
-utmri8a.pfb>
-Output written on gshs_thesis_17021_main.pdf (23 pages, 4439961 bytes).
+nts/type1/public/cm-super/sfss0800.pfb><c:/texlive/2018/texmf-dist/fonts/type1/
+uhc/umj/umj01.pfb><c:/texlive/2018/texmf-dist/fonts/type1/uhc/umj/umj20.pfb><c:
+/texlive/2018/texmf-dist/fonts/type1/uhc/umj/umj34.pfb><c:/texlive/2018/texmf-d
+ist/fonts/type1/uhc/umj/umj36.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/s
+ymbol/usyr.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/
+texlive/2018/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2018/texmf
+-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/
+urw/times/utmri8a.pfb>
+Output written on gshs_thesis_17021_main.pdf (22 pages, 4381492 bytes).
 PDF statistics:
- 404 PDF objects out of 1000 (max. 8388607)
- 286 compressed objects within 3 object streams
+ 398 PDF objects out of 1000 (max. 8388607)
+ 281 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
