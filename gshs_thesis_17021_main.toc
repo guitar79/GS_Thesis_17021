@@ -1,12 +1,13 @@
 \contentsline {section}{Abstract}{i}
 \contentsline {section}{Contents}{iii}
+\contentsline {section}{List of Figures}{iv}
 \contentsline {section}{\numberline {I}서론}{1}
 \contentsline {section}{\numberline {II}실험 과정}{4}
 \contentsline {subsection}{\numberline {II.1}준비}{4}
 \contentsline {subsection}{\numberline {II.2}분석}{5}
 \contentsline {section}{\numberline {III}Results}{6}
 \contentsline {subsection}{\numberline {III.1}광학 현미경 관찰}{6}
-\contentsline {subsection}{\numberline {III.2}X-Ray 회절 분석}{6}
+\contentsline {subsection}{\numberline {III.2}X-Ray 회절 분석}{7}
 \contentsline {subsection}{\numberline {III.3}TRPL 분석}{7}
-\contentsline {section}{\numberline {IV}Conclusion}{10}
-\contentsline {section}{References}{12}
+\contentsline {section}{\numberline {IV}Conclusion}{11}
+\contentsline {section}{References}{13}
