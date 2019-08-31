@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.25)  5 JUL 2019 13:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.10.25)  31 AUG 2019 18:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1854,7 +1854,7 @@ Overfull \hbox (38.28732pt too wide) in paragraph at lines 93--142
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8 <./images/TRPL_graph.jpg>]
+[8 <./images/TRPL_graph.JPG>]
 Package pgfplots info on input line 167: Using 'lua backend=false' for axis: x 
 coord trafo unsupported.
 PGFPlots: reading {./ND_data/nd1_1.csv}
@@ -1898,7 +1898,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  42215 strings out of 492649
- 990259 string characters out of 6133384
+ 990259 string characters out of 6133383
  1166185 words of memory out of 5000000
  45214 multiletter control sequences out of 15000+600000
  693044 words of font info for 375 fonts, out of 8000000 for 9000
